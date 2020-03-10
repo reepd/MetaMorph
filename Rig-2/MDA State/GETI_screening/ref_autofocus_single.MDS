@@ -1,0 +1,3237 @@
+"MDA State", Version 1.2
+"bDoTimelapse", FALSE
+"bDoStage", TRUE
+"bDoWavelengths", FALSE
+"bDoZSeries", FALSE
+"iHardwareAutoFocus", 3
+"iHardwareAFFreq", 2
+"bBlackoutMode", FALSE
+"bUseDualZ", FALSE
+"stDualZUses", 1, ""
+"stDualZUses", 2, ""
+"stDualZUses", 3, ""
+"stDualZUses", 4, ""
+"iTestAreaDim", 5
+"lMaxExposureDur", 10000
+"dMinExposureDur", 0
+"nTimePoints", 8
+"idxTimeUnits", 1
+"dTimeIntervalUu", 0
+"dDuration", 0
+"idxDurUnits", 1
+"dpStageZTravelOffset", 0
+"stStagePositionLabel", "96Well95-H11i_476dot2803"
+"nStagePositions", 227
+"dpStageXs", 1, -17534
+"dpStageYs", 1, -6993
+"dpStageZs", 1, 8589.01
+"dpStageZ2s", 1, 0
+"bStageUseZTravelOffsets", 1, FALSE
+"iStageSampleLoaderPos", 1, -9999
+"dpStageAFOffsets", 1, 0
+"lStageAFMemorizedPositionIDs", 1, -1
+"stStageLabels", 1, "96Well02-A02a_476dot1"
+"bStagePosEnabled", 1, TRUE
+"dpStageXs", 2, -17534
+"dpStageYs", 2, -7109
+"dpStageZs", 2, 8589.01
+"dpStageZ2s", 2, 0
+"bStageUseZTravelOffsets", 2, FALSE
+"iStageSampleLoaderPos", 2, -9999
+"dpStageAFOffsets", 2, 0
+"lStageAFMemorizedPositionIDs", 2, -1
+"stStageLabels", 2, "96Well02-A02b_476dot1"
+"bStagePosEnabled", 2, TRUE
+"dpStageXs", 3, -17418
+"dpStageYs", 3, -6877
+"dpStageZs", 3, 8589.01
+"dpStageZ2s", 3, 0
+"bStageUseZTravelOffsets", 3, FALSE
+"iStageSampleLoaderPos", 3, -9999
+"dpStageAFOffsets", 3, 0
+"lStageAFMemorizedPositionIDs", 3, -1
+"stStageLabels", 3, "96Well02-A02e_476dot1"
+"bStagePosEnabled", 3, TRUE
+"dpStageXs", 4, -17534
+"dpStageYs", 4, -6877
+"dpStageZs", 4, 8589.01
+"dpStageZ2s", 4, 0
+"bStageUseZTravelOffsets", 4, FALSE
+"iStageSampleLoaderPos", 4, -9999
+"dpStageAFOffsets", 4, 0
+"lStageAFMemorizedPositionIDs", 4, -1
+"stStageLabels", 4, "96Well02-A02f_476dot1"
+"bStagePosEnabled", 4, TRUE
+"dpStageXs", 5, -17650
+"dpStageYs", 5, -6993
+"dpStageZs", 5, 8589.01
+"dpStageZ2s", 5, 0
+"bStageUseZTravelOffsets", 5, FALSE
+"iStageSampleLoaderPos", 5, -9999
+"dpStageAFOffsets", 5, 0
+"lStageAFMemorizedPositionIDs", 5, -1
+"stStageLabels", 5, "96Well02-A02h_476dot1"
+"bStagePosEnabled", 5, TRUE
+"dpStageXs", 6, -26418
+"dpStageYs", 6, -6993
+"dpStageZs", 6, 8634.69
+"dpStageZ2s", 6, 0
+"bStageUseZTravelOffsets", 6, FALSE
+"iStageSampleLoaderPos", 6, -9999
+"dpStageAFOffsets", 6, 0
+"lStageAFMemorizedPositionIDs", 6, -1
+"stStageLabels", 6, "96Well03-A03d_476dot2737"
+"bStagePosEnabled", 6, TRUE
+"dpStageXs", 7, -26650
+"dpStageYs", 7, -7109
+"dpStageZs", 7, 8634.69
+"dpStageZ2s", 7, 0
+"bStageUseZTravelOffsets", 7, FALSE
+"iStageSampleLoaderPos", 7, -9999
+"dpStageAFOffsets", 7, 0
+"lStageAFMemorizedPositionIDs", 7, -1
+"stStageLabels", 7, "96Well03-A03i_476dot2737"
+"bStagePosEnabled", 7, TRUE
+"dpStageXs", 8, -44534
+"dpStageYs", 8, -6877
+"dpStageZs", 8, 8587.35
+"dpStageZ2s", 8, 0
+"bStageUseZTravelOffsets", 8, FALSE
+"iStageSampleLoaderPos", 8, -9999
+"dpStageAFOffsets", 8, 0
+"lStageAFMemorizedPositionIDs", 8, -1
+"stStageLabels", 8, "96Well05-A05f_476dot2753"
+"bStagePosEnabled", 8, TRUE
+"dpStageXs", 9, -53534
+"dpStageYs", 9, -6993
+"dpStageZs", 9, 8541.4
+"dpStageZ2s", 9, 0
+"bStageUseZTravelOffsets", 9, FALSE
+"iStageSampleLoaderPos", 9, -9999
+"dpStageAFOffsets", 9, 0
+"lStageAFMemorizedPositionIDs", 9, -1
+"stStageLabels", 9, "96Well06-A06a_476dot2761"
+"bStagePosEnabled", 9, TRUE
+"dpStageXs", 10, -53418
+"dpStageYs", 10, -7109
+"dpStageZs", 10, 8541.4
+"dpStageZ2s", 10, 0
+"bStageUseZTravelOffsets", 10, FALSE
+"iStageSampleLoaderPos", 10, -9999
+"dpStageAFOffsets", 10, 0
+"lStageAFMemorizedPositionIDs", 10, -1
+"stStageLabels", 10, "96Well06-A06c_476dot2761"
+"bStagePosEnabled", 10, TRUE
+"dpStageXs", 11, -53418
+"dpStageYs", 11, -6993
+"dpStageZs", 11, 8541.4
+"dpStageZ2s", 11, 0
+"bStageUseZTravelOffsets", 11, FALSE
+"iStageSampleLoaderPos", 11, -9999
+"dpStageAFOffsets", 11, 0
+"lStageAFMemorizedPositionIDs", 11, -1
+"stStageLabels", 11, "96Well06-A06d_476dot2761"
+"bStagePosEnabled", 11, TRUE
+"dpStageXs", 12, -53534
+"dpStageYs", 12, -6877
+"dpStageZs", 12, 8541.4
+"dpStageZ2s", 12, 0
+"bStageUseZTravelOffsets", 12, FALSE
+"iStageSampleLoaderPos", 12, -9999
+"dpStageAFOffsets", 12, 0
+"lStageAFMemorizedPositionIDs", 12, -1
+"stStageLabels", 12, "96Well06-A06f_476dot2761"
+"bStagePosEnabled", 12, TRUE
+"dpStageXs", 13, -53650
+"dpStageYs", 13, -7109
+"dpStageZs", 13, 8541.4
+"dpStageZ2s", 13, 0
+"bStageUseZTravelOffsets", 13, FALSE
+"iStageSampleLoaderPos", 13, -9999
+"dpStageAFOffsets", 13, 0
+"lStageAFMemorizedPositionIDs", 13, -1
+"stStageLabels", 13, "96Well06-A06i_476dot2761"
+"bStagePosEnabled", 13, TRUE
+"dpStageXs", 14, -62534
+"dpStageYs", 14, -6993
+"dpStageZs", 14, 8521.35
+"dpStageZ2s", 14, 0
+"bStageUseZTravelOffsets", 14, FALSE
+"iStageSampleLoaderPos", 14, -9999
+"dpStageAFOffsets", 14, 0
+"lStageAFMemorizedPositionIDs", 14, -1
+"stStageLabels", 14, "96Well07-A07a_476dot2769"
+"bStagePosEnabled", 14, TRUE
+"dpStageXs", 15, -62534
+"dpStageYs", 15, -7109
+"dpStageZs", 15, 8521.35
+"dpStageZ2s", 15, 0
+"bStageUseZTravelOffsets", 15, FALSE
+"iStageSampleLoaderPos", 15, -9999
+"dpStageAFOffsets", 15, 0
+"lStageAFMemorizedPositionIDs", 15, -1
+"stStageLabels", 15, "96Well07-A07b_476dot2769"
+"bStagePosEnabled", 15, TRUE
+"dpStageXs", 16, -62418
+"dpStageYs", 16, -6993
+"dpStageZs", 16, 8521.35
+"dpStageZ2s", 16, 0
+"bStageUseZTravelOffsets", 16, FALSE
+"iStageSampleLoaderPos", 16, -9999
+"dpStageAFOffsets", 16, 0
+"lStageAFMemorizedPositionIDs", 16, -1
+"stStageLabels", 16, "96Well07-A07d_476dot2769"
+"bStagePosEnabled", 16, TRUE
+"dpStageXs", 17, -62418
+"dpStageYs", 17, -6877
+"dpStageZs", 17, 8521.35
+"dpStageZ2s", 17, 0
+"bStageUseZTravelOffsets", 17, FALSE
+"iStageSampleLoaderPos", 17, -9999
+"dpStageAFOffsets", 17, 0
+"lStageAFMemorizedPositionIDs", 17, -1
+"stStageLabels", 17, "96Well07-A07e_476dot2769"
+"bStagePosEnabled", 17, TRUE
+"dpStageXs", 18, -62534
+"dpStageYs", 18, -6877
+"dpStageZs", 18, 8521.35
+"dpStageZ2s", 18, 0
+"bStageUseZTravelOffsets", 18, FALSE
+"iStageSampleLoaderPos", 18, -9999
+"dpStageAFOffsets", 18, 0
+"lStageAFMemorizedPositionIDs", 18, -1
+"stStageLabels", 18, "96Well07-A07f_476dot2769"
+"bStagePosEnabled", 18, TRUE
+"dpStageXs", 19, -62650
+"dpStageYs", 19, -6877
+"dpStageZs", 19, 8521.35
+"dpStageZ2s", 19, 0
+"bStageUseZTravelOffsets", 19, FALSE
+"iStageSampleLoaderPos", 19, -9999
+"dpStageAFOffsets", 19, 0
+"lStageAFMemorizedPositionIDs", 19, -1
+"stStageLabels", 19, "96Well07-A07g_476dot2769"
+"bStagePosEnabled", 19, TRUE
+"dpStageXs", 20, -62650
+"dpStageYs", 20, -7109
+"dpStageZs", 20, 8521.35
+"dpStageZ2s", 20, 0
+"bStageUseZTravelOffsets", 20, FALSE
+"iStageSampleLoaderPos", 20, -9999
+"dpStageAFOffsets", 20, 0
+"lStageAFMemorizedPositionIDs", 20, -1
+"stStageLabels", 20, "96Well07-A07i_476dot2769"
+"bStagePosEnabled", 20, TRUE
+"dpStageXs", 21, -71534
+"dpStageYs", 21, -7109
+"dpStageZs", 21, 8540.21
+"dpStageZ2s", 21, 0
+"bStageUseZTravelOffsets", 21, FALSE
+"iStageSampleLoaderPos", 21, -9999
+"dpStageAFOffsets", 21, 0
+"lStageAFMemorizedPositionIDs", 21, -1
+"stStageLabels", 21, "96Well08-A08b_476dot2777"
+"bStagePosEnabled", 21, TRUE
+"dpStageXs", 22, -71418
+"dpStageYs", 22, -7109
+"dpStageZs", 22, 8540.21
+"dpStageZ2s", 22, 0
+"bStageUseZTravelOffsets", 22, FALSE
+"iStageSampleLoaderPos", 22, -9999
+"dpStageAFOffsets", 22, 0
+"lStageAFMemorizedPositionIDs", 22, -1
+"stStageLabels", 22, "96Well08-A08c_476dot2777"
+"bStagePosEnabled", 22, TRUE
+"dpStageXs", 23, -80534
+"dpStageYs", 23, -6993
+"dpStageZs", 23, 8579.21
+"dpStageZ2s", 23, 0
+"bStageUseZTravelOffsets", 23, FALSE
+"iStageSampleLoaderPos", 23, -9999
+"dpStageAFOffsets", 23, 0
+"lStageAFMemorizedPositionIDs", 23, -1
+"stStageLabels", 23, "96Well09-A09a_476dot2785"
+"bStagePosEnabled", 23, TRUE
+"dpStageXs", 24, -80418
+"dpStageYs", 24, -7109
+"dpStageZs", 24, 8579.21
+"dpStageZ2s", 24, 0
+"bStageUseZTravelOffsets", 24, FALSE
+"iStageSampleLoaderPos", 24, -9999
+"dpStageAFOffsets", 24, 0
+"lStageAFMemorizedPositionIDs", 24, -1
+"stStageLabels", 24, "96Well09-A09c_476dot2785"
+"bStagePosEnabled", 24, TRUE
+"dpStageXs", 25, -80418
+"dpStageYs", 25, -6877
+"dpStageZs", 25, 8579.21
+"dpStageZ2s", 25, 0
+"bStageUseZTravelOffsets", 25, FALSE
+"iStageSampleLoaderPos", 25, -9999
+"dpStageAFOffsets", 25, 0
+"lStageAFMemorizedPositionIDs", 25, -1
+"stStageLabels", 25, "96Well09-A09e_476dot2785"
+"bStagePosEnabled", 25, TRUE
+"dpStageXs", 26, -80650
+"dpStageYs", 26, -7109
+"dpStageZs", 26, 8579.21
+"dpStageZ2s", 26, 0
+"bStageUseZTravelOffsets", 26, FALSE
+"iStageSampleLoaderPos", 26, -9999
+"dpStageAFOffsets", 26, 0
+"lStageAFMemorizedPositionIDs", 26, -1
+"stStageLabels", 26, "96Well09-A09i_476dot2785"
+"bStagePosEnabled", 26, TRUE
+"dpStageXs", 27, -89534
+"dpStageYs", 27, -6993
+"dpStageZs", 27, 8614.88
+"dpStageZ2s", 27, 0
+"bStageUseZTravelOffsets", 27, FALSE
+"iStageSampleLoaderPos", 27, -9999
+"dpStageAFOffsets", 27, 0
+"lStageAFMemorizedPositionIDs", 27, -1
+"stStageLabels", 27, "96Well10-A10a_476dot2793"
+"bStagePosEnabled", 27, TRUE
+"dpStageXs", 28, -89534
+"dpStageYs", 28, -7109
+"dpStageZs", 28, 8614.88
+"dpStageZ2s", 28, 0
+"bStageUseZTravelOffsets", 28, FALSE
+"iStageSampleLoaderPos", 28, -9999
+"dpStageAFOffsets", 28, 0
+"lStageAFMemorizedPositionIDs", 28, -1
+"stStageLabels", 28, "96Well10-A10b_476dot2793"
+"bStagePosEnabled", 28, TRUE
+"dpStageXs", 29, -89418
+"dpStageYs", 29, -7109
+"dpStageZs", 29, 8614.88
+"dpStageZ2s", 29, 0
+"bStageUseZTravelOffsets", 29, FALSE
+"iStageSampleLoaderPos", 29, -9999
+"dpStageAFOffsets", 29, 0
+"lStageAFMemorizedPositionIDs", 29, -1
+"stStageLabels", 29, "96Well10-A10c_476dot2793"
+"bStagePosEnabled", 29, TRUE
+"dpStageXs", 30, -89534
+"dpStageYs", 30, -6877
+"dpStageZs", 30, 8614.88
+"dpStageZ2s", 30, 0
+"bStageUseZTravelOffsets", 30, FALSE
+"iStageSampleLoaderPos", 30, -9999
+"dpStageAFOffsets", 30, 0
+"lStageAFMemorizedPositionIDs", 30, -1
+"stStageLabels", 30, "96Well10-A10f_476dot2793"
+"bStagePosEnabled", 30, TRUE
+"dpStageXs", 31, -89650
+"dpStageYs", 31, -7109
+"dpStageZs", 31, 8614.88
+"dpStageZ2s", 31, 0
+"bStageUseZTravelOffsets", 31, FALSE
+"iStageSampleLoaderPos", 31, -9999
+"dpStageAFOffsets", 31, 0
+"lStageAFMemorizedPositionIDs", 31, -1
+"stStageLabels", 31, "96Well10-A10i_476dot2793"
+"bStagePosEnabled", 31, TRUE
+"dpStageXs", 32, -98534
+"dpStageYs", 32, -6993
+"dpStageZs", 32, 8628.04
+"dpStageZ2s", 32, 0
+"bStageUseZTravelOffsets", 32, FALSE
+"iStageSampleLoaderPos", 32, -9999
+"dpStageAFOffsets", 32, 0
+"lStageAFMemorizedPositionIDs", 32, -1
+"stStageLabels", 32, "96Well11-A11a_476dot2801"
+"bStagePosEnabled", 32, TRUE
+"dpStageXs", 33, -98534
+"dpStageYs", 33, -7109
+"dpStageZs", 33, 8628.04
+"dpStageZ2s", 33, 0
+"bStageUseZTravelOffsets", 33, FALSE
+"iStageSampleLoaderPos", 33, -9999
+"dpStageAFOffsets", 33, 0
+"lStageAFMemorizedPositionIDs", 33, -1
+"stStageLabels", 33, "96Well11-A11b_476dot2801"
+"bStagePosEnabled", 33, TRUE
+"dpStageXs", 34, -98418
+"dpStageYs", 34, -6993
+"dpStageZs", 34, 8628.04
+"dpStageZ2s", 34, 0
+"bStageUseZTravelOffsets", 34, FALSE
+"iStageSampleLoaderPos", 34, -9999
+"dpStageAFOffsets", 34, 0
+"lStageAFMemorizedPositionIDs", 34, -1
+"stStageLabels", 34, "96Well11-A11d_476dot2801"
+"bStagePosEnabled", 34, TRUE
+"dpStageXs", 35, -98534
+"dpStageYs", 35, -6877
+"dpStageZs", 35, 8628.04
+"dpStageZ2s", 35, 0
+"bStageUseZTravelOffsets", 35, FALSE
+"iStageSampleLoaderPos", 35, -9999
+"dpStageAFOffsets", 35, 0
+"lStageAFMemorizedPositionIDs", 35, -1
+"stStageLabels", 35, "96Well11-A11f_476dot2801"
+"bStagePosEnabled", 35, TRUE
+"dpStageXs", 36, -98650
+"dpStageYs", 36, -6877
+"dpStageZs", 36, 8628.04
+"dpStageZ2s", 36, 0
+"bStageUseZTravelOffsets", 36, FALSE
+"iStageSampleLoaderPos", 36, -9999
+"dpStageAFOffsets", 36, 0
+"lStageAFMemorizedPositionIDs", 36, -1
+"stStageLabels", 36, "96Well11-A11g_476dot2801"
+"bStagePosEnabled", 36, TRUE
+"dpStageXs", 37, -98650
+"dpStageYs", 37, -6993
+"dpStageZs", 37, 8628.04
+"dpStageZ2s", 37, 0
+"bStageUseZTravelOffsets", 37, FALSE
+"iStageSampleLoaderPos", 37, -9999
+"dpStageAFOffsets", 37, 0
+"lStageAFMemorizedPositionIDs", 37, -1
+"stStageLabels", 37, "96Well11-A11h_476dot2801"
+"bStagePosEnabled", 37, TRUE
+"dpStageXs", 38, -17534
+"dpStageYs", 38, -15993
+"dpStageZs", 38, 8566.3
+"dpStageZ2s", 38, 0
+"bStageUseZTravelOffsets", 38, FALSE
+"iStageSampleLoaderPos", 38, -9999
+"dpStageAFOffsets", 38, 0
+"lStageAFMemorizedPositionIDs", 38, -1
+"stStageLabels", 38, "96Well14-B02a_476dot1"
+"bStagePosEnabled", 38, TRUE
+"dpStageXs", 39, -35534
+"dpStageYs", 39, -15877
+"dpStageZs", 39, 8627.33
+"dpStageZ2s", 39, 0
+"bStageUseZTravelOffsets", 39, FALSE
+"iStageSampleLoaderPos", 39, -9999
+"dpStageAFOffsets", 39, 0
+"lStageAFMemorizedPositionIDs", 39, -1
+"stStageLabels", 39, "96Well16-B04f_476dot2745"
+"bStagePosEnabled", 39, TRUE
+"dpStageXs", 40, -35650
+"dpStageYs", 40, -16109
+"dpStageZs", 40, 8627.33
+"dpStageZ2s", 40, 0
+"bStageUseZTravelOffsets", 40, FALSE
+"iStageSampleLoaderPos", 40, -9999
+"dpStageAFOffsets", 40, 0
+"lStageAFMemorizedPositionIDs", 40, -1
+"stStageLabels", 40, "96Well16-B04i_476dot2745"
+"bStagePosEnabled", 40, TRUE
+"dpStageXs", 41, -53534
+"dpStageYs", 41, -15877
+"dpStageZs", 41, 8555.72
+"dpStageZ2s", 41, 0
+"bStageUseZTravelOffsets", 41, FALSE
+"iStageSampleLoaderPos", 41, -9999
+"dpStageAFOffsets", 41, 0
+"lStageAFMemorizedPositionIDs", 41, -1
+"stStageLabels", 41, "96Well18-B06f_476dot2761"
+"bStagePosEnabled", 41, TRUE
+"dpStageXs", 42, -53650
+"dpStageYs", 42, -15993
+"dpStageZs", 42, 8555.72
+"dpStageZ2s", 42, 0
+"bStageUseZTravelOffsets", 42, FALSE
+"iStageSampleLoaderPos", 42, -9999
+"dpStageAFOffsets", 42, 0
+"lStageAFMemorizedPositionIDs", 42, -1
+"stStageLabels", 42, "96Well18-B06h_476dot2761"
+"bStagePosEnabled", 42, TRUE
+"dpStageXs", 43, -62534
+"dpStageYs", 43, -15993
+"dpStageZs", 43, 8535.39
+"dpStageZ2s", 43, 0
+"bStageUseZTravelOffsets", 43, FALSE
+"iStageSampleLoaderPos", 43, -9999
+"dpStageAFOffsets", 43, 0
+"lStageAFMemorizedPositionIDs", 43, -1
+"stStageLabels", 43, "96Well19-B07a_476dot2769"
+"bStagePosEnabled", 43, TRUE
+"dpStageXs", 44, -62418
+"dpStageYs", 44, -15993
+"dpStageZs", 44, 8535.39
+"dpStageZ2s", 44, 0
+"bStageUseZTravelOffsets", 44, FALSE
+"iStageSampleLoaderPos", 44, -9999
+"dpStageAFOffsets", 44, 0
+"lStageAFMemorizedPositionIDs", 44, -1
+"stStageLabels", 44, "96Well19-B07d_476dot2769"
+"bStagePosEnabled", 44, TRUE
+"dpStageXs", 45, -62418
+"dpStageYs", 45, -15877
+"dpStageZs", 45, 8535.39
+"dpStageZ2s", 45, 0
+"bStageUseZTravelOffsets", 45, FALSE
+"iStageSampleLoaderPos", 45, -9999
+"dpStageAFOffsets", 45, 0
+"lStageAFMemorizedPositionIDs", 45, -1
+"stStageLabels", 45, "96Well19-B07e_476dot2769"
+"bStagePosEnabled", 45, TRUE
+"dpStageXs", 46, -62650
+"dpStageYs", 46, -15993
+"dpStageZs", 46, 8535.39
+"dpStageZ2s", 46, 0
+"bStageUseZTravelOffsets", 46, FALSE
+"iStageSampleLoaderPos", 46, -9999
+"dpStageAFOffsets", 46, 0
+"lStageAFMemorizedPositionIDs", 46, -1
+"stStageLabels", 46, "96Well19-B07h_476dot2769"
+"bStagePosEnabled", 46, TRUE
+"dpStageXs", 47, -71534
+"dpStageYs", 47, -16109
+"dpStageZs", 47, 8550.02
+"dpStageZ2s", 47, 0
+"bStageUseZTravelOffsets", 47, FALSE
+"iStageSampleLoaderPos", 47, -9999
+"dpStageAFOffsets", 47, 0
+"lStageAFMemorizedPositionIDs", 47, -1
+"stStageLabels", 47, "96Well20-B08b_476dot2777"
+"bStagePosEnabled", 47, TRUE
+"dpStageXs", 48, -80534
+"dpStageYs", 48, -16109
+"dpStageZs", 48, 8585.49
+"dpStageZ2s", 48, 0
+"bStageUseZTravelOffsets", 48, FALSE
+"iStageSampleLoaderPos", 48, -9999
+"dpStageAFOffsets", 48, 0
+"lStageAFMemorizedPositionIDs", 48, -1
+"stStageLabels", 48, "96Well21-B09b_476dot2785"
+"bStagePosEnabled", 48, TRUE
+"dpStageXs", 49, -80418
+"dpStageYs", 49, -15993
+"dpStageZs", 49, 8585.49
+"dpStageZ2s", 49, 0
+"bStageUseZTravelOffsets", 49, FALSE
+"iStageSampleLoaderPos", 49, -9999
+"dpStageAFOffsets", 49, 0
+"lStageAFMemorizedPositionIDs", 49, -1
+"stStageLabels", 49, "96Well21-B09d_476dot2785"
+"bStagePosEnabled", 49, TRUE
+"dpStageXs", 50, -80650
+"dpStageYs", 50, -15877
+"dpStageZs", 50, 8585.49
+"dpStageZ2s", 50, 0
+"bStageUseZTravelOffsets", 50, FALSE
+"iStageSampleLoaderPos", 50, -9999
+"dpStageAFOffsets", 50, 0
+"lStageAFMemorizedPositionIDs", 50, -1
+"stStageLabels", 50, "96Well21-B09g_476dot2785"
+"bStagePosEnabled", 50, TRUE
+"dpStageXs", 51, -80650
+"dpStageYs", 51, -16109
+"dpStageZs", 51, 8585.49
+"dpStageZ2s", 51, 0
+"bStageUseZTravelOffsets", 51, FALSE
+"iStageSampleLoaderPos", 51, -9999
+"dpStageAFOffsets", 51, 0
+"lStageAFMemorizedPositionIDs", 51, -1
+"stStageLabels", 51, "96Well21-B09i_476dot2785"
+"bStagePosEnabled", 51, TRUE
+"dpStageXs", 52, -89534
+"dpStageYs", 52, -16109
+"dpStageZs", 52, 8619.42
+"dpStageZ2s", 52, 0
+"bStageUseZTravelOffsets", 52, FALSE
+"iStageSampleLoaderPos", 52, -9999
+"dpStageAFOffsets", 52, 0
+"lStageAFMemorizedPositionIDs", 52, -1
+"stStageLabels", 52, "96Well22-B10b_476dot2793"
+"bStagePosEnabled", 52, TRUE
+"dpStageXs", 53, -89418
+"dpStageYs", 53, -16109
+"dpStageZs", 53, 8619.42
+"dpStageZ2s", 53, 0
+"bStageUseZTravelOffsets", 53, FALSE
+"iStageSampleLoaderPos", 53, -9999
+"dpStageAFOffsets", 53, 0
+"lStageAFMemorizedPositionIDs", 53, -1
+"stStageLabels", 53, "96Well22-B10c_476dot2793"
+"bStagePosEnabled", 53, TRUE
+"dpStageXs", 54, -89534
+"dpStageYs", 54, -15877
+"dpStageZs", 54, 8619.42
+"dpStageZ2s", 54, 0
+"bStageUseZTravelOffsets", 54, FALSE
+"iStageSampleLoaderPos", 54, -9999
+"dpStageAFOffsets", 54, 0
+"lStageAFMemorizedPositionIDs", 54, -1
+"stStageLabels", 54, "96Well22-B10f_476dot2793"
+"bStagePosEnabled", 54, TRUE
+"dpStageXs", 55, -89650
+"dpStageYs", 55, -15993
+"dpStageZs", 55, 8619.42
+"dpStageZ2s", 55, 0
+"bStageUseZTravelOffsets", 55, FALSE
+"iStageSampleLoaderPos", 55, -9999
+"dpStageAFOffsets", 55, 0
+"lStageAFMemorizedPositionIDs", 55, -1
+"stStageLabels", 55, "96Well22-B10h_476dot2793"
+"bStagePosEnabled", 55, TRUE
+"dpStageXs", 56, -98418
+"dpStageYs", 56, -16109
+"dpStageZs", 56, 8632.87
+"dpStageZ2s", 56, 0
+"bStageUseZTravelOffsets", 56, FALSE
+"iStageSampleLoaderPos", 56, -9999
+"dpStageAFOffsets", 56, 0
+"lStageAFMemorizedPositionIDs", 56, -1
+"stStageLabels", 56, "96Well23-B11c_476dot2801"
+"bStagePosEnabled", 56, TRUE
+"dpStageXs", 57, -98418
+"dpStageYs", 57, -15993
+"dpStageZs", 57, 8632.87
+"dpStageZ2s", 57, 0
+"bStageUseZTravelOffsets", 57, FALSE
+"iStageSampleLoaderPos", 57, -9999
+"dpStageAFOffsets", 57, 0
+"lStageAFMemorizedPositionIDs", 57, -1
+"stStageLabels", 57, "96Well23-B11d_476dot2801"
+"bStagePosEnabled", 57, TRUE
+"dpStageXs", 58, -98418
+"dpStageYs", 58, -15877
+"dpStageZs", 58, 8632.87
+"dpStageZ2s", 58, 0
+"bStageUseZTravelOffsets", 58, FALSE
+"iStageSampleLoaderPos", 58, -9999
+"dpStageAFOffsets", 58, 0
+"lStageAFMemorizedPositionIDs", 58, -1
+"stStageLabels", 58, "96Well23-B11e_476dot2801"
+"bStagePosEnabled", 58, TRUE
+"dpStageXs", 59, -98534
+"dpStageYs", 59, -15877
+"dpStageZs", 59, 8632.87
+"dpStageZ2s", 59, 0
+"bStageUseZTravelOffsets", 59, FALSE
+"iStageSampleLoaderPos", 59, -9999
+"dpStageAFOffsets", 59, 0
+"lStageAFMemorizedPositionIDs", 59, -1
+"stStageLabels", 59, "96Well23-B11f_476dot2801"
+"bStagePosEnabled", 59, TRUE
+"dpStageXs", 60, -98650
+"dpStageYs", 60, -15993
+"dpStageZs", 60, 8632.87
+"dpStageZ2s", 60, 0
+"bStageUseZTravelOffsets", 60, FALSE
+"iStageSampleLoaderPos", 60, -9999
+"dpStageAFOffsets", 60, 0
+"lStageAFMemorizedPositionIDs", 60, -1
+"stStageLabels", 60, "96Well23-B11h_476dot2801"
+"bStagePosEnabled", 60, TRUE
+"dpStageXs", 61, -17534
+"dpStageYs", 61, -24993
+"dpStageZs", 61, 8543.1
+"dpStageZ2s", 61, 0
+"bStageUseZTravelOffsets", 61, FALSE
+"iStageSampleLoaderPos", 61, -9999
+"dpStageAFOffsets", 61, 0
+"lStageAFMemorizedPositionIDs", 61, -1
+"stStageLabels", 61, "96Well26-C02a_476dot1"
+"bStagePosEnabled", 61, TRUE
+"dpStageXs", 62, -17418
+"dpStageYs", 62, -25109
+"dpStageZs", 62, 8543.1
+"dpStageZ2s", 62, 0
+"bStageUseZTravelOffsets", 62, FALSE
+"iStageSampleLoaderPos", 62, -9999
+"dpStageAFOffsets", 62, 0
+"lStageAFMemorizedPositionIDs", 62, -1
+"stStageLabels", 62, "96Well26-C02c_476dot1"
+"bStagePosEnabled", 62, TRUE
+"dpStageXs", 63, -17418
+"dpStageYs", 63, -24877
+"dpStageZs", 63, 8543.1
+"dpStageZ2s", 63, 0
+"bStageUseZTravelOffsets", 63, FALSE
+"iStageSampleLoaderPos", 63, -9999
+"dpStageAFOffsets", 63, 0
+"lStageAFMemorizedPositionIDs", 63, -1
+"stStageLabels", 63, "96Well26-C02e_476dot1"
+"bStagePosEnabled", 63, TRUE
+"dpStageXs", 64, -17650
+"dpStageYs", 64, -24877
+"dpStageZs", 64, 8543.1
+"dpStageZ2s", 64, 0
+"bStageUseZTravelOffsets", 64, FALSE
+"iStageSampleLoaderPos", 64, -9999
+"dpStageAFOffsets", 64, 0
+"lStageAFMemorizedPositionIDs", 64, -1
+"stStageLabels", 64, "96Well26-C02g_476dot1"
+"bStagePosEnabled", 64, TRUE
+"dpStageXs", 65, -26650
+"dpStageYs", 65, -24877
+"dpStageZs", 65, 8603.77
+"dpStageZ2s", 65, 0
+"bStageUseZTravelOffsets", 65, FALSE
+"iStageSampleLoaderPos", 65, -9999
+"dpStageAFOffsets", 65, 0
+"lStageAFMemorizedPositionIDs", 65, -1
+"stStageLabels", 65, "96Well27-C03g_476dot2737"
+"bStagePosEnabled", 65, TRUE
+"dpStageXs", 66, -26650
+"dpStageYs", 66, -25109
+"dpStageZs", 66, 8603.77
+"dpStageZ2s", 66, 0
+"bStageUseZTravelOffsets", 66, FALSE
+"iStageSampleLoaderPos", 66, -9999
+"dpStageAFOffsets", 66, 0
+"lStageAFMemorizedPositionIDs", 66, -1
+"stStageLabels", 66, "96Well27-C03i_476dot2737"
+"bStagePosEnabled", 66, TRUE
+"dpStageXs", 67, -35650
+"dpStageYs", 67, -24993
+"dpStageZs", 67, 8619.86
+"dpStageZ2s", 67, 0
+"bStageUseZTravelOffsets", 67, FALSE
+"iStageSampleLoaderPos", 67, -9999
+"dpStageAFOffsets", 67, 0
+"lStageAFMemorizedPositionIDs", 67, -1
+"stStageLabels", 67, "96Well28-C04h_476dot2745"
+"bStagePosEnabled", 67, TRUE
+"dpStageXs", 68, -44418
+"dpStageYs", 68, -24877
+"dpStageZs", 68, 8597.66
+"dpStageZ2s", 68, 0
+"bStageUseZTravelOffsets", 68, FALSE
+"iStageSampleLoaderPos", 68, -9999
+"dpStageAFOffsets", 68, 0
+"lStageAFMemorizedPositionIDs", 68, -1
+"stStageLabels", 68, "96Well29-C05e_476dot2753"
+"bStagePosEnabled", 68, TRUE
+"dpStageXs", 69, -53418
+"dpStageYs", 69, -24993
+"dpStageZs", 69, 8565.02
+"dpStageZ2s", 69, 0
+"bStageUseZTravelOffsets", 69, FALSE
+"iStageSampleLoaderPos", 69, -9999
+"dpStageAFOffsets", 69, 0
+"lStageAFMemorizedPositionIDs", 69, -1
+"stStageLabels", 69, "96Well30-C06d_476dot2761"
+"bStagePosEnabled", 69, TRUE
+"dpStageXs", 70, -62534
+"dpStageYs", 70, -24993
+"dpStageZs", 70, 8546.45
+"dpStageZ2s", 70, 0
+"bStageUseZTravelOffsets", 70, FALSE
+"iStageSampleLoaderPos", 70, -9999
+"dpStageAFOffsets", 70, 0
+"lStageAFMemorizedPositionIDs", 70, -1
+"stStageLabels", 70, "96Well31-C07a_476dot2769"
+"bStagePosEnabled", 70, TRUE
+"dpStageXs", 71, -62534
+"dpStageYs", 71, -25109
+"dpStageZs", 71, 8546.45
+"dpStageZ2s", 71, 0
+"bStageUseZTravelOffsets", 71, FALSE
+"iStageSampleLoaderPos", 71, -9999
+"dpStageAFOffsets", 71, 0
+"lStageAFMemorizedPositionIDs", 71, -1
+"stStageLabels", 71, "96Well31-C07b_476dot2769"
+"bStagePosEnabled", 71, TRUE
+"dpStageXs", 72, -62418
+"dpStageYs", 72, -24993
+"dpStageZs", 72, 8546.45
+"dpStageZ2s", 72, 0
+"bStageUseZTravelOffsets", 72, FALSE
+"iStageSampleLoaderPos", 72, -9999
+"dpStageAFOffsets", 72, 0
+"lStageAFMemorizedPositionIDs", 72, -1
+"stStageLabels", 72, "96Well31-C07d_476dot2769"
+"bStagePosEnabled", 72, TRUE
+"dpStageXs", 73, -62534
+"dpStageYs", 73, -24877
+"dpStageZs", 73, 8546.45
+"dpStageZ2s", 73, 0
+"bStageUseZTravelOffsets", 73, FALSE
+"iStageSampleLoaderPos", 73, -9999
+"dpStageAFOffsets", 73, 0
+"lStageAFMemorizedPositionIDs", 73, -1
+"stStageLabels", 73, "96Well31-C07f_476dot2769"
+"bStagePosEnabled", 73, TRUE
+"dpStageXs", 74, -71534
+"dpStageYs", 74, -25109
+"dpStageZs", 74, 8558.48
+"dpStageZ2s", 74, 0
+"bStageUseZTravelOffsets", 74, FALSE
+"iStageSampleLoaderPos", 74, -9999
+"dpStageAFOffsets", 74, 0
+"lStageAFMemorizedPositionIDs", 74, -1
+"stStageLabels", 74, "96Well32-C08b_476dot2777"
+"bStagePosEnabled", 74, TRUE
+"dpStageXs", 75, -71418
+"dpStageYs", 75, -24877
+"dpStageZs", 75, 8558.48
+"dpStageZ2s", 75, 0
+"bStageUseZTravelOffsets", 75, FALSE
+"iStageSampleLoaderPos", 75, -9999
+"dpStageAFOffsets", 75, 0
+"lStageAFMemorizedPositionIDs", 75, -1
+"stStageLabels", 75, "96Well32-C08e_476dot2777"
+"bStagePosEnabled", 75, TRUE
+"dpStageXs", 76, -71650
+"dpStageYs", 76, -24877
+"dpStageZs", 76, 8558.48
+"dpStageZ2s", 76, 0
+"bStageUseZTravelOffsets", 76, FALSE
+"iStageSampleLoaderPos", 76, -9999
+"dpStageAFOffsets", 76, 0
+"lStageAFMemorizedPositionIDs", 76, -1
+"stStageLabels", 76, "96Well32-C08g_476dot2777"
+"bStagePosEnabled", 76, TRUE
+"dpStageXs", 77, -71650
+"dpStageYs", 77, -24993
+"dpStageZs", 77, 8558.48
+"dpStageZ2s", 77, 0
+"bStageUseZTravelOffsets", 77, FALSE
+"iStageSampleLoaderPos", 77, -9999
+"dpStageAFOffsets", 77, 0
+"lStageAFMemorizedPositionIDs", 77, -1
+"stStageLabels", 77, "96Well32-C08h_476dot2777"
+"bStagePosEnabled", 77, TRUE
+"dpStageXs", 78, -71650
+"dpStageYs", 78, -25109
+"dpStageZs", 78, 8558.48
+"dpStageZ2s", 78, 0
+"bStageUseZTravelOffsets", 78, FALSE
+"iStageSampleLoaderPos", 78, -9999
+"dpStageAFOffsets", 78, 0
+"lStageAFMemorizedPositionIDs", 78, -1
+"stStageLabels", 78, "96Well32-C08i_476dot2777"
+"bStagePosEnabled", 78, TRUE
+"dpStageXs", 79, -80534
+"dpStageYs", 79, -25109
+"dpStageZs", 79, 8589.78
+"dpStageZ2s", 79, 0
+"bStageUseZTravelOffsets", 79, FALSE
+"iStageSampleLoaderPos", 79, -9999
+"dpStageAFOffsets", 79, 0
+"lStageAFMemorizedPositionIDs", 79, -1
+"stStageLabels", 79, "96Well33-C09b_476dot2785"
+"bStagePosEnabled", 79, TRUE
+"dpStageXs", 80, -80418
+"dpStageYs", 80, -25109
+"dpStageZs", 80, 8589.78
+"dpStageZ2s", 80, 0
+"bStageUseZTravelOffsets", 80, FALSE
+"iStageSampleLoaderPos", 80, -9999
+"dpStageAFOffsets", 80, 0
+"lStageAFMemorizedPositionIDs", 80, -1
+"stStageLabels", 80, "96Well33-C09c_476dot2785"
+"bStagePosEnabled", 80, TRUE
+"dpStageXs", 81, -80418
+"dpStageYs", 81, -24877
+"dpStageZs", 81, 8589.78
+"dpStageZ2s", 81, 0
+"bStageUseZTravelOffsets", 81, FALSE
+"iStageSampleLoaderPos", 81, -9999
+"dpStageAFOffsets", 81, 0
+"lStageAFMemorizedPositionIDs", 81, -1
+"stStageLabels", 81, "96Well33-C09e_476dot2785"
+"bStagePosEnabled", 81, TRUE
+"dpStageXs", 82, -80534
+"dpStageYs", 82, -24877
+"dpStageZs", 82, 8589.78
+"dpStageZ2s", 82, 0
+"bStageUseZTravelOffsets", 82, FALSE
+"iStageSampleLoaderPos", 82, -9999
+"dpStageAFOffsets", 82, 0
+"lStageAFMemorizedPositionIDs", 82, -1
+"stStageLabels", 82, "96Well33-C09f_476dot2785"
+"bStagePosEnabled", 82, TRUE
+"dpStageXs", 83, -80650
+"dpStageYs", 83, -25109
+"dpStageZs", 83, 8589.78
+"dpStageZ2s", 83, 0
+"bStageUseZTravelOffsets", 83, FALSE
+"iStageSampleLoaderPos", 83, -9999
+"dpStageAFOffsets", 83, 0
+"lStageAFMemorizedPositionIDs", 83, -1
+"stStageLabels", 83, "96Well33-C09i_476dot2785"
+"bStagePosEnabled", 83, TRUE
+"dpStageXs", 84, -89534
+"dpStageYs", 84, -24993
+"dpStageZs", 84, 8621.6
+"dpStageZ2s", 84, 0
+"bStageUseZTravelOffsets", 84, FALSE
+"iStageSampleLoaderPos", 84, -9999
+"dpStageAFOffsets", 84, 0
+"lStageAFMemorizedPositionIDs", 84, -1
+"stStageLabels", 84, "96Well34-C10a_476dot2793"
+"bStagePosEnabled", 84, TRUE
+"dpStageXs", 85, -89418
+"dpStageYs", 85, -24877
+"dpStageZs", 85, 8621.6
+"dpStageZ2s", 85, 0
+"bStageUseZTravelOffsets", 85, FALSE
+"iStageSampleLoaderPos", 85, -9999
+"dpStageAFOffsets", 85, 0
+"lStageAFMemorizedPositionIDs", 85, -1
+"stStageLabels", 85, "96Well34-C10e_476dot2793"
+"bStagePosEnabled", 85, TRUE
+"dpStageXs", 86, -89534
+"dpStageYs", 86, -24877
+"dpStageZs", 86, 8621.6
+"dpStageZ2s", 86, 0
+"bStageUseZTravelOffsets", 86, FALSE
+"iStageSampleLoaderPos", 86, -9999
+"dpStageAFOffsets", 86, 0
+"lStageAFMemorizedPositionIDs", 86, -1
+"stStageLabels", 86, "96Well34-C10f_476dot2793"
+"bStagePosEnabled", 86, TRUE
+"dpStageXs", 87, -89650
+"dpStageYs", 87, -25109
+"dpStageZs", 87, 8621.6
+"dpStageZ2s", 87, 0
+"bStageUseZTravelOffsets", 87, FALSE
+"iStageSampleLoaderPos", 87, -9999
+"dpStageAFOffsets", 87, 0
+"lStageAFMemorizedPositionIDs", 87, -1
+"stStageLabels", 87, "96Well34-C10i_476dot2793"
+"bStagePosEnabled", 87, TRUE
+"dpStageXs", 88, -98534
+"dpStageYs", 88, -25109
+"dpStageZs", 88, 8632.65
+"dpStageZ2s", 88, 0
+"bStageUseZTravelOffsets", 88, FALSE
+"iStageSampleLoaderPos", 88, -9999
+"dpStageAFOffsets", 88, 0
+"lStageAFMemorizedPositionIDs", 88, -1
+"stStageLabels", 88, "96Well35-C11b_476dot2801"
+"bStagePosEnabled", 88, TRUE
+"dpStageXs", 89, -98418
+"dpStageYs", 89, -24993
+"dpStageZs", 89, 8632.65
+"dpStageZ2s", 89, 0
+"bStageUseZTravelOffsets", 89, FALSE
+"iStageSampleLoaderPos", 89, -9999
+"dpStageAFOffsets", 89, 0
+"lStageAFMemorizedPositionIDs", 89, -1
+"stStageLabels", 89, "96Well35-C11d_476dot2801"
+"bStagePosEnabled", 89, TRUE
+"dpStageXs", 90, -98534
+"dpStageYs", 90, -24877
+"dpStageZs", 90, 8632.65
+"dpStageZ2s", 90, 0
+"bStageUseZTravelOffsets", 90, FALSE
+"iStageSampleLoaderPos", 90, -9999
+"dpStageAFOffsets", 90, 0
+"lStageAFMemorizedPositionIDs", 90, -1
+"stStageLabels", 90, "96Well35-C11f_476dot2801"
+"bStagePosEnabled", 90, TRUE
+"dpStageXs", 91, -98650
+"dpStageYs", 91, -25109
+"dpStageZs", 91, 8632.65
+"dpStageZ2s", 91, 0
+"bStageUseZTravelOffsets", 91, FALSE
+"iStageSampleLoaderPos", 91, -9999
+"dpStageAFOffsets", 91, 0
+"lStageAFMemorizedPositionIDs", 91, -1
+"stStageLabels", 91, "96Well35-C11i_476dot2801"
+"bStagePosEnabled", 91, TRUE
+"dpStageXs", 92, -17534
+"dpStageYs", 92, -33993
+"dpStageZs", 92, 8521.89
+"dpStageZ2s", 92, 0
+"bStageUseZTravelOffsets", 92, FALSE
+"iStageSampleLoaderPos", 92, -9999
+"dpStageAFOffsets", 92, 0
+"lStageAFMemorizedPositionIDs", 92, -1
+"stStageLabels", 92, "96Well38-D02a_476dot1"
+"bStagePosEnabled", 92, TRUE
+"dpStageXs", 93, -17418
+"dpStageYs", 93, -34109
+"dpStageZs", 93, 8521.89
+"dpStageZ2s", 93, 0
+"bStageUseZTravelOffsets", 93, FALSE
+"iStageSampleLoaderPos", 93, -9999
+"dpStageAFOffsets", 93, 0
+"lStageAFMemorizedPositionIDs", 93, -1
+"stStageLabels", 93, "96Well38-D02c_476dot1"
+"bStagePosEnabled", 93, TRUE
+"dpStageXs", 94, -17418
+"dpStageYs", 94, -33993
+"dpStageZs", 94, 8521.89
+"dpStageZ2s", 94, 0
+"bStageUseZTravelOffsets", 94, FALSE
+"iStageSampleLoaderPos", 94, -9999
+"dpStageAFOffsets", 94, 0
+"lStageAFMemorizedPositionIDs", 94, -1
+"stStageLabels", 94, "96Well38-D02d_476dot1"
+"bStagePosEnabled", 94, TRUE
+"dpStageXs", 95, -17534
+"dpStageYs", 95, -33877
+"dpStageZs", 95, 8521.89
+"dpStageZ2s", 95, 0
+"bStageUseZTravelOffsets", 95, FALSE
+"iStageSampleLoaderPos", 95, -9999
+"dpStageAFOffsets", 95, 0
+"lStageAFMemorizedPositionIDs", 95, -1
+"stStageLabels", 95, "96Well38-D02f_476dot1"
+"bStagePosEnabled", 95, TRUE
+"dpStageXs", 96, -17650
+"dpStageYs", 96, -33993
+"dpStageZs", 96, 8521.89
+"dpStageZ2s", 96, 0
+"bStageUseZTravelOffsets", 96, FALSE
+"iStageSampleLoaderPos", 96, -9999
+"dpStageAFOffsets", 96, 0
+"lStageAFMemorizedPositionIDs", 96, -1
+"stStageLabels", 96, "96Well38-D02h_476dot1"
+"bStagePosEnabled", 96, TRUE
+"dpStageXs", 97, -17650
+"dpStageYs", 97, -34109
+"dpStageZs", 97, 8521.89
+"dpStageZ2s", 97, 0
+"bStageUseZTravelOffsets", 97, FALSE
+"iStageSampleLoaderPos", 97, -9999
+"dpStageAFOffsets", 97, 0
+"lStageAFMemorizedPositionIDs", 97, -1
+"stStageLabels", 97, "96Well38-D02i_476dot1"
+"bStagePosEnabled", 97, TRUE
+"dpStageXs", 98, -26534
+"dpStageYs", 98, -34109
+"dpStageZs", 98, 8585.54
+"dpStageZ2s", 98, 0
+"bStageUseZTravelOffsets", 98, FALSE
+"iStageSampleLoaderPos", 98, -9999
+"dpStageAFOffsets", 98, 0
+"lStageAFMemorizedPositionIDs", 98, -1
+"stStageLabels", 98, "96Well39-D03b_476dot2737"
+"bStagePosEnabled", 98, TRUE
+"dpStageXs", 99, -44534
+"dpStageYs", 99, -33877
+"dpStageZs", 99, 8599.83
+"dpStageZ2s", 99, 0
+"bStageUseZTravelOffsets", 99, FALSE
+"iStageSampleLoaderPos", 99, -9999
+"dpStageAFOffsets", 99, 0
+"lStageAFMemorizedPositionIDs", 99, -1
+"stStageLabels", 99, "96Well41-D05f_476dot2753"
+"bStagePosEnabled", 99, TRUE
+"dpStageXs", 100, -53418
+"dpStageYs", 100, -34109
+"dpStageZs", 100, 8575.51
+"dpStageZ2s", 100, 0
+"bStageUseZTravelOffsets", 100, FALSE
+"iStageSampleLoaderPos", 100, -9999
+"dpStageAFOffsets", 100, 0
+"lStageAFMemorizedPositionIDs", 100, -1
+"stStageLabels", 100, "96Well42-D06c_476dot2761"
+"bStagePosEnabled", 100, TRUE
+"dpStageXs", 101, -62534
+"dpStageYs", 101, -33993
+"dpStageZs", 101, 8559.27
+"dpStageZ2s", 101, 0
+"bStageUseZTravelOffsets", 101, FALSE
+"iStageSampleLoaderPos", 101, -9999
+"dpStageAFOffsets", 101, 0
+"lStageAFMemorizedPositionIDs", 101, -1
+"stStageLabels", 101, "96Well43-D07a_476dot2769"
+"bStagePosEnabled", 101, TRUE
+"dpStageXs", 102, -62418
+"dpStageYs", 102, -33877
+"dpStageZs", 102, 8559.27
+"dpStageZ2s", 102, 0
+"bStageUseZTravelOffsets", 102, FALSE
+"iStageSampleLoaderPos", 102, -9999
+"dpStageAFOffsets", 102, 0
+"lStageAFMemorizedPositionIDs", 102, -1
+"stStageLabels", 102, "96Well43-D07e_476dot2769"
+"bStagePosEnabled", 102, TRUE
+"dpStageXs", 103, -71534
+"dpStageYs", 103, -33993
+"dpStageZs", 103, 8568.74
+"dpStageZ2s", 103, 0
+"bStageUseZTravelOffsets", 103, FALSE
+"iStageSampleLoaderPos", 103, -9999
+"dpStageAFOffsets", 103, 0
+"lStageAFMemorizedPositionIDs", 103, -1
+"stStageLabels", 103, "96Well44-D08a_476dot2777"
+"bStagePosEnabled", 103, TRUE
+"dpStageXs", 104, -71534
+"dpStageYs", 104, -34109
+"dpStageZs", 104, 8568.74
+"dpStageZ2s", 104, 0
+"bStageUseZTravelOffsets", 104, FALSE
+"iStageSampleLoaderPos", 104, -9999
+"dpStageAFOffsets", 104, 0
+"lStageAFMemorizedPositionIDs", 104, -1
+"stStageLabels", 104, "96Well44-D08b_476dot2777"
+"bStagePosEnabled", 104, TRUE
+"dpStageXs", 105, -71418
+"dpStageYs", 105, -34109
+"dpStageZs", 105, 8568.74
+"dpStageZ2s", 105, 0
+"bStageUseZTravelOffsets", 105, FALSE
+"iStageSampleLoaderPos", 105, -9999
+"dpStageAFOffsets", 105, 0
+"lStageAFMemorizedPositionIDs", 105, -1
+"stStageLabels", 105, "96Well44-D08c_476dot2777"
+"bStagePosEnabled", 105, TRUE
+"dpStageXs", 106, -71418
+"dpStageYs", 106, -33993
+"dpStageZs", 106, 8568.74
+"dpStageZ2s", 106, 0
+"bStageUseZTravelOffsets", 106, FALSE
+"iStageSampleLoaderPos", 106, -9999
+"dpStageAFOffsets", 106, 0
+"lStageAFMemorizedPositionIDs", 106, -1
+"stStageLabels", 106, "96Well44-D08d_476dot2777"
+"bStagePosEnabled", 106, TRUE
+"dpStageXs", 107, -71418
+"dpStageYs", 107, -33877
+"dpStageZs", 107, 8568.74
+"dpStageZ2s", 107, 0
+"bStageUseZTravelOffsets", 107, FALSE
+"iStageSampleLoaderPos", 107, -9999
+"dpStageAFOffsets", 107, 0
+"lStageAFMemorizedPositionIDs", 107, -1
+"stStageLabels", 107, "96Well44-D08e_476dot2777"
+"bStagePosEnabled", 107, TRUE
+"dpStageXs", 108, -71534
+"dpStageYs", 108, -33877
+"dpStageZs", 108, 8568.74
+"dpStageZ2s", 108, 0
+"bStageUseZTravelOffsets", 108, FALSE
+"iStageSampleLoaderPos", 108, -9999
+"dpStageAFOffsets", 108, 0
+"lStageAFMemorizedPositionIDs", 108, -1
+"stStageLabels", 108, "96Well44-D08f_476dot2777"
+"bStagePosEnabled", 108, TRUE
+"dpStageXs", 109, -71650
+"dpStageYs", 109, -33877
+"dpStageZs", 109, 8568.74
+"dpStageZ2s", 109, 0
+"bStageUseZTravelOffsets", 109, FALSE
+"iStageSampleLoaderPos", 109, -9999
+"dpStageAFOffsets", 109, 0
+"lStageAFMemorizedPositionIDs", 109, -1
+"stStageLabels", 109, "96Well44-D08g_476dot2777"
+"bStagePosEnabled", 109, TRUE
+"dpStageXs", 110, -71650
+"dpStageYs", 110, -34109
+"dpStageZs", 110, 8568.74
+"dpStageZ2s", 110, 0
+"bStageUseZTravelOffsets", 110, FALSE
+"iStageSampleLoaderPos", 110, -9999
+"dpStageAFOffsets", 110, 0
+"lStageAFMemorizedPositionIDs", 110, -1
+"stStageLabels", 110, "96Well44-D08i_476dot2777"
+"bStagePosEnabled", 110, TRUE
+"dpStageXs", 111, -80418
+"dpStageYs", 111, -33993
+"dpStageZs", 111, 8595.81
+"dpStageZ2s", 111, 0
+"bStageUseZTravelOffsets", 111, FALSE
+"iStageSampleLoaderPos", 111, -9999
+"dpStageAFOffsets", 111, 0
+"lStageAFMemorizedPositionIDs", 111, -1
+"stStageLabels", 111, "96Well45-D09d_476dot2785"
+"bStagePosEnabled", 111, TRUE
+"dpStageXs", 112, -80650
+"dpStageYs", 112, -34109
+"dpStageZs", 112, 8595.81
+"dpStageZ2s", 112, 0
+"bStageUseZTravelOffsets", 112, FALSE
+"iStageSampleLoaderPos", 112, -9999
+"dpStageAFOffsets", 112, 0
+"lStageAFMemorizedPositionIDs", 112, -1
+"stStageLabels", 112, "96Well45-D09i_476dot2785"
+"bStagePosEnabled", 112, TRUE
+"dpStageXs", 113, -89534
+"dpStageYs", 113, -34109
+"dpStageZs", 113, 8623.61
+"dpStageZ2s", 113, 0
+"bStageUseZTravelOffsets", 113, FALSE
+"iStageSampleLoaderPos", 113, -9999
+"dpStageAFOffsets", 113, 0
+"lStageAFMemorizedPositionIDs", 113, -1
+"stStageLabels", 113, "96Well46-D10b_476dot2793"
+"bStagePosEnabled", 113, TRUE
+"dpStageXs", 114, -89650
+"dpStageYs", 114, -33993
+"dpStageZs", 114, 8623.61
+"dpStageZ2s", 114, 0
+"bStageUseZTravelOffsets", 114, FALSE
+"iStageSampleLoaderPos", 114, -9999
+"dpStageAFOffsets", 114, 0
+"lStageAFMemorizedPositionIDs", 114, -1
+"stStageLabels", 114, "96Well46-D10h_476dot2793"
+"bStagePosEnabled", 114, TRUE
+"dpStageXs", 115, -98418
+"dpStageYs", 115, -34109
+"dpStageZs", 115, 8631.49
+"dpStageZ2s", 115, 0
+"bStageUseZTravelOffsets", 115, FALSE
+"iStageSampleLoaderPos", 115, -9999
+"dpStageAFOffsets", 115, 0
+"lStageAFMemorizedPositionIDs", 115, -1
+"stStageLabels", 115, "96Well47-D11c_476dot2801"
+"bStagePosEnabled", 115, TRUE
+"dpStageXs", 116, -35418
+"dpStageYs", 116, -42877
+"dpStageZs", 116, 8607.16
+"dpStageZ2s", 116, 0
+"bStageUseZTravelOffsets", 116, FALSE
+"iStageSampleLoaderPos", 116, -9999
+"dpStageAFOffsets", 116, 0
+"lStageAFMemorizedPositionIDs", 116, -1
+"stStageLabels", 116, "96Well52-E04e_476dot2746"
+"bStagePosEnabled", 116, TRUE
+"dpStageXs", 117, -35534
+"dpStageYs", 117, -42877
+"dpStageZs", 117, 8607.16
+"dpStageZ2s", 117, 0
+"bStageUseZTravelOffsets", 117, FALSE
+"iStageSampleLoaderPos", 117, -9999
+"dpStageAFOffsets", 117, 0
+"lStageAFMemorizedPositionIDs", 117, -1
+"stStageLabels", 117, "96Well52-E04f_476dot2746"
+"bStagePosEnabled", 117, TRUE
+"dpStageXs", 118, -35650
+"dpStageYs", 118, -42877
+"dpStageZs", 118, 8607.16
+"dpStageZ2s", 118, 0
+"bStageUseZTravelOffsets", 118, FALSE
+"iStageSampleLoaderPos", 118, -9999
+"dpStageAFOffsets", 118, 0
+"lStageAFMemorizedPositionIDs", 118, -1
+"stStageLabels", 118, "96Well52-E04g_476dot2746"
+"bStagePosEnabled", 118, TRUE
+"dpStageXs", 119, -53534
+"dpStageYs", 119, -43109
+"dpStageZs", 119, 8593.86
+"dpStageZ2s", 119, 0
+"bStageUseZTravelOffsets", 119, FALSE
+"iStageSampleLoaderPos", 119, -9999
+"dpStageAFOffsets", 119, 0
+"lStageAFMemorizedPositionIDs", 119, -1
+"stStageLabels", 119, "96Well54-E06b_476dot2762"
+"bStagePosEnabled", 119, TRUE
+"dpStageXs", 120, -53650
+"dpStageYs", 120, -43109
+"dpStageZs", 120, 8593.86
+"dpStageZ2s", 120, 0
+"bStageUseZTravelOffsets", 120, FALSE
+"iStageSampleLoaderPos", 120, -9999
+"dpStageAFOffsets", 120, 0
+"lStageAFMemorizedPositionIDs", 120, -1
+"stStageLabels", 120, "96Well54-E06i_476dot2762"
+"bStagePosEnabled", 120, TRUE
+"dpStageXs", 121, -62418
+"dpStageYs", 121, -42993
+"dpStageZs", 121, 8579.21
+"dpStageZ2s", 121, 0
+"bStageUseZTravelOffsets", 121, FALSE
+"iStageSampleLoaderPos", 121, -9999
+"dpStageAFOffsets", 121, 0
+"lStageAFMemorizedPositionIDs", 121, -1
+"stStageLabels", 121, "96Well55-E07d_476dot2770"
+"bStagePosEnabled", 121, TRUE
+"dpStageXs", 122, -62418
+"dpStageYs", 122, -42877
+"dpStageZs", 122, 8579.21
+"dpStageZ2s", 122, 0
+"bStageUseZTravelOffsets", 122, FALSE
+"iStageSampleLoaderPos", 122, -9999
+"dpStageAFOffsets", 122, 0
+"lStageAFMemorizedPositionIDs", 122, -1
+"stStageLabels", 122, "96Well55-E07e_476dot2770"
+"bStagePosEnabled", 122, TRUE
+"dpStageXs", 123, -62650
+"dpStageYs", 123, -42877
+"dpStageZs", 123, 8579.21
+"dpStageZ2s", 123, 0
+"bStageUseZTravelOffsets", 123, FALSE
+"iStageSampleLoaderPos", 123, -9999
+"dpStageAFOffsets", 123, 0
+"lStageAFMemorizedPositionIDs", 123, -1
+"stStageLabels", 123, "96Well55-E07g_476dot2770"
+"bStagePosEnabled", 123, TRUE
+"dpStageXs", 124, -71418
+"dpStageYs", 124, -43109
+"dpStageZs", 124, 8584.77
+"dpStageZ2s", 124, 0
+"bStageUseZTravelOffsets", 124, FALSE
+"iStageSampleLoaderPos", 124, -9999
+"dpStageAFOffsets", 124, 0
+"lStageAFMemorizedPositionIDs", 124, -1
+"stStageLabels", 124, "96Well56-E08c_476dot2778"
+"bStagePosEnabled", 124, TRUE
+"dpStageXs", 125, -71418
+"dpStageYs", 125, -42877
+"dpStageZs", 125, 8584.77
+"dpStageZ2s", 125, 0
+"bStageUseZTravelOffsets", 125, FALSE
+"iStageSampleLoaderPos", 125, -9999
+"dpStageAFOffsets", 125, 0
+"lStageAFMemorizedPositionIDs", 125, -1
+"stStageLabels", 125, "96Well56-E08e_476dot2778"
+"bStagePosEnabled", 125, TRUE
+"dpStageXs", 126, -71650
+"dpStageYs", 126, -42877
+"dpStageZs", 126, 8584.77
+"dpStageZ2s", 126, 0
+"bStageUseZTravelOffsets", 126, FALSE
+"iStageSampleLoaderPos", 126, -9999
+"dpStageAFOffsets", 126, 0
+"lStageAFMemorizedPositionIDs", 126, -1
+"stStageLabels", 126, "96Well56-E08g_476dot2778"
+"bStagePosEnabled", 126, TRUE
+"dpStageXs", 127, -71650
+"dpStageYs", 127, -42993
+"dpStageZs", 127, 8584.77
+"dpStageZ2s", 127, 0
+"bStageUseZTravelOffsets", 127, FALSE
+"iStageSampleLoaderPos", 127, -9999
+"dpStageAFOffsets", 127, 0
+"lStageAFMemorizedPositionIDs", 127, -1
+"stStageLabels", 127, "96Well56-E08h_476dot2778"
+"bStagePosEnabled", 127, TRUE
+"dpStageXs", 128, -71650
+"dpStageYs", 128, -43109
+"dpStageZs", 128, 8584.77
+"dpStageZ2s", 128, 0
+"bStageUseZTravelOffsets", 128, FALSE
+"iStageSampleLoaderPos", 128, -9999
+"dpStageAFOffsets", 128, 0
+"lStageAFMemorizedPositionIDs", 128, -1
+"stStageLabels", 128, "96Well56-E08i_476dot2778"
+"bStagePosEnabled", 128, TRUE
+"dpStageXs", 129, -80534
+"dpStageYs", 129, -42993
+"dpStageZs", 129, 8606.29
+"dpStageZ2s", 129, 0
+"bStageUseZTravelOffsets", 129, FALSE
+"iStageSampleLoaderPos", 129, -9999
+"dpStageAFOffsets", 129, 0
+"lStageAFMemorizedPositionIDs", 129, -1
+"stStageLabels", 129, "96Well57-E09a_476dot2786"
+"bStagePosEnabled", 129, TRUE
+"dpStageXs", 130, -80418
+"dpStageYs", 130, -42877
+"dpStageZs", 130, 8606.29
+"dpStageZ2s", 130, 0
+"bStageUseZTravelOffsets", 130, FALSE
+"iStageSampleLoaderPos", 130, -9999
+"dpStageAFOffsets", 130, 0
+"lStageAFMemorizedPositionIDs", 130, -1
+"stStageLabels", 130, "96Well57-E09e_476dot2786"
+"bStagePosEnabled", 130, TRUE
+"dpStageXs", 131, -80534
+"dpStageYs", 131, -42877
+"dpStageZs", 131, 8606.29
+"dpStageZ2s", 131, 0
+"bStageUseZTravelOffsets", 131, FALSE
+"iStageSampleLoaderPos", 131, -9999
+"dpStageAFOffsets", 131, 0
+"lStageAFMemorizedPositionIDs", 131, -1
+"stStageLabels", 131, "96Well57-E09f_476dot2786"
+"bStagePosEnabled", 131, TRUE
+"dpStageXs", 132, -89534
+"dpStageYs", 132, -42993
+"dpStageZs", 132, 8628.11
+"dpStageZ2s", 132, 0
+"bStageUseZTravelOffsets", 132, FALSE
+"iStageSampleLoaderPos", 132, -9999
+"dpStageAFOffsets", 132, 0
+"lStageAFMemorizedPositionIDs", 132, -1
+"stStageLabels", 132, "96Well58-E10a_476dot2794"
+"bStagePosEnabled", 132, TRUE
+"dpStageXs", 133, -89534
+"dpStageYs", 133, -43109
+"dpStageZs", 133, 8628.11
+"dpStageZ2s", 133, 0
+"bStageUseZTravelOffsets", 133, FALSE
+"iStageSampleLoaderPos", 133, -9999
+"dpStageAFOffsets", 133, 0
+"lStageAFMemorizedPositionIDs", 133, -1
+"stStageLabels", 133, "96Well58-E10b_476dot2794"
+"bStagePosEnabled", 133, TRUE
+"dpStageXs", 134, -89418
+"dpStageYs", 134, -42993
+"dpStageZs", 134, 8628.11
+"dpStageZ2s", 134, 0
+"bStageUseZTravelOffsets", 134, FALSE
+"iStageSampleLoaderPos", 134, -9999
+"dpStageAFOffsets", 134, 0
+"lStageAFMemorizedPositionIDs", 134, -1
+"stStageLabels", 134, "96Well58-E10d_476dot2794"
+"bStagePosEnabled", 134, TRUE
+"dpStageXs", 135, -89418
+"dpStageYs", 135, -42877
+"dpStageZs", 135, 8628.11
+"dpStageZ2s", 135, 0
+"bStageUseZTravelOffsets", 135, FALSE
+"iStageSampleLoaderPos", 135, -9999
+"dpStageAFOffsets", 135, 0
+"lStageAFMemorizedPositionIDs", 135, -1
+"stStageLabels", 135, "96Well58-E10e_476dot2794"
+"bStagePosEnabled", 135, TRUE
+"dpStageXs", 136, -89534
+"dpStageYs", 136, -42877
+"dpStageZs", 136, 8628.11
+"dpStageZ2s", 136, 0
+"bStageUseZTravelOffsets", 136, FALSE
+"iStageSampleLoaderPos", 136, -9999
+"dpStageAFOffsets", 136, 0
+"lStageAFMemorizedPositionIDs", 136, -1
+"stStageLabels", 136, "96Well58-E10f_476dot2794"
+"bStagePosEnabled", 136, TRUE
+"dpStageXs", 137, -89650
+"dpStageYs", 137, -42877
+"dpStageZs", 137, 8628.11
+"dpStageZ2s", 137, 0
+"bStageUseZTravelOffsets", 137, FALSE
+"iStageSampleLoaderPos", 137, -9999
+"dpStageAFOffsets", 137, 0
+"lStageAFMemorizedPositionIDs", 137, -1
+"stStageLabels", 137, "96Well58-E10g_476dot2794"
+"bStagePosEnabled", 137, TRUE
+"dpStageXs", 138, -89650
+"dpStageYs", 138, -42993
+"dpStageZs", 138, 8628.11
+"dpStageZ2s", 138, 0
+"bStageUseZTravelOffsets", 138, FALSE
+"iStageSampleLoaderPos", 138, -9999
+"dpStageAFOffsets", 138, 0
+"lStageAFMemorizedPositionIDs", 138, -1
+"stStageLabels", 138, "96Well58-E10h_476dot2794"
+"bStagePosEnabled", 138, TRUE
+"dpStageXs", 139, -98418
+"dpStageYs", 139, -42993
+"dpStageZs", 139, 8630.32
+"dpStageZ2s", 139, 0
+"bStageUseZTravelOffsets", 139, FALSE
+"iStageSampleLoaderPos", 139, -9999
+"dpStageAFOffsets", 139, 0
+"lStageAFMemorizedPositionIDs", 139, -1
+"stStageLabels", 139, "96Well59-E11d_476dot2802"
+"bStagePosEnabled", 139, TRUE
+"dpStageXs", 140, -98650
+"dpStageYs", 140, -42993
+"dpStageZs", 140, 8630.32
+"dpStageZ2s", 140, 0
+"bStageUseZTravelOffsets", 140, FALSE
+"iStageSampleLoaderPos", 140, -9999
+"dpStageAFOffsets", 140, 0
+"lStageAFMemorizedPositionIDs", 140, -1
+"stStageLabels", 140, "96Well59-E11h_476dot2802"
+"bStagePosEnabled", 140, TRUE
+"dpStageXs", 141, -35534
+"dpStageYs", 141, -52109
+"dpStageZs", 141, 8621.38
+"dpStageZ2s", 141, 0
+"bStageUseZTravelOffsets", 141, FALSE
+"iStageSampleLoaderPos", 141, -9999
+"dpStageAFOffsets", 141, 0
+"lStageAFMemorizedPositionIDs", 141, -1
+"stStageLabels", 141, "96Well64-F04b_476dot2746"
+"bStagePosEnabled", 141, TRUE
+"dpStageXs", 142, -35418
+"dpStageYs", 142, -51877
+"dpStageZs", 142, 8621.38
+"dpStageZ2s", 142, 0
+"bStageUseZTravelOffsets", 142, FALSE
+"iStageSampleLoaderPos", 142, -9999
+"dpStageAFOffsets", 142, 0
+"lStageAFMemorizedPositionIDs", 142, -1
+"stStageLabels", 142, "96Well64-F04e_476dot2746"
+"bStagePosEnabled", 142, TRUE
+"dpStageXs", 143, -35534
+"dpStageYs", 143, -51877
+"dpStageZs", 143, 8621.38
+"dpStageZ2s", 143, 0
+"bStageUseZTravelOffsets", 143, FALSE
+"iStageSampleLoaderPos", 143, -9999
+"dpStageAFOffsets", 143, 0
+"lStageAFMemorizedPositionIDs", 143, -1
+"stStageLabels", 143, "96Well64-F04f_476dot2746"
+"bStagePosEnabled", 143, TRUE
+"dpStageXs", 144, -44534
+"dpStageYs", 144, -51877
+"dpStageZs", 144, 8635.02
+"dpStageZ2s", 144, 0
+"bStageUseZTravelOffsets", 144, FALSE
+"iStageSampleLoaderPos", 144, -9999
+"dpStageAFOffsets", 144, 0
+"lStageAFMemorizedPositionIDs", 144, -1
+"stStageLabels", 144, "96Well65-F05f_476dot2754"
+"bStagePosEnabled", 144, TRUE
+"dpStageXs", 145, -44650
+"dpStageYs", 145, -52109
+"dpStageZs", 145, 8635.02
+"dpStageZ2s", 145, 0
+"bStageUseZTravelOffsets", 145, FALSE
+"iStageSampleLoaderPos", 145, -9999
+"dpStageAFOffsets", 145, 0
+"lStageAFMemorizedPositionIDs", 145, -1
+"stStageLabels", 145, "96Well65-F05i_476dot2754"
+"bStagePosEnabled", 145, TRUE
+"dpStageXs", 146, -53418
+"dpStageYs", 146, -52109
+"dpStageZs", 146, 8624.23
+"dpStageZ2s", 146, 0
+"bStageUseZTravelOffsets", 146, FALSE
+"iStageSampleLoaderPos", 146, -9999
+"dpStageAFOffsets", 146, 0
+"lStageAFMemorizedPositionIDs", 146, -1
+"stStageLabels", 146, "96Well66-F06c_476dot2762"
+"bStagePosEnabled", 146, TRUE
+"dpStageXs", 147, -53418
+"dpStageYs", 147, -51993
+"dpStageZs", 147, 8624.23
+"dpStageZ2s", 147, 0
+"bStageUseZTravelOffsets", 147, FALSE
+"iStageSampleLoaderPos", 147, -9999
+"dpStageAFOffsets", 147, 0
+"lStageAFMemorizedPositionIDs", 147, -1
+"stStageLabels", 147, "96Well66-F06d_476dot2762"
+"bStagePosEnabled", 147, TRUE
+"dpStageXs", 148, -53534
+"dpStageYs", 148, -51877
+"dpStageZs", 148, 8624.23
+"dpStageZ2s", 148, 0
+"bStageUseZTravelOffsets", 148, FALSE
+"iStageSampleLoaderPos", 148, -9999
+"dpStageAFOffsets", 148, 0
+"lStageAFMemorizedPositionIDs", 148, -1
+"stStageLabels", 148, "96Well66-F06f_476dot2762"
+"bStagePosEnabled", 148, TRUE
+"dpStageXs", 149, -62534
+"dpStageYs", 149, -52109
+"dpStageZs", 149, 8609.63
+"dpStageZ2s", 149, 0
+"bStageUseZTravelOffsets", 149, FALSE
+"iStageSampleLoaderPos", 149, -9999
+"dpStageAFOffsets", 149, 0
+"lStageAFMemorizedPositionIDs", 149, -1
+"stStageLabels", 149, "96Well67-F07b_476dot2770"
+"bStagePosEnabled", 149, TRUE
+"dpStageXs", 150, -62418
+"dpStageYs", 150, -51993
+"dpStageZs", 150, 8609.63
+"dpStageZ2s", 150, 0
+"bStageUseZTravelOffsets", 150, FALSE
+"iStageSampleLoaderPos", 150, -9999
+"dpStageAFOffsets", 150, 0
+"lStageAFMemorizedPositionIDs", 150, -1
+"stStageLabels", 150, "96Well67-F07d_476dot2770"
+"bStagePosEnabled", 150, TRUE
+"dpStageXs", 151, -62418
+"dpStageYs", 151, -51877
+"dpStageZs", 151, 8609.63
+"dpStageZ2s", 151, 0
+"bStageUseZTravelOffsets", 151, FALSE
+"iStageSampleLoaderPos", 151, -9999
+"dpStageAFOffsets", 151, 0
+"lStageAFMemorizedPositionIDs", 151, -1
+"stStageLabels", 151, "96Well67-F07e_476dot2770"
+"bStagePosEnabled", 151, TRUE
+"dpStageXs", 152, -62650
+"dpStageYs", 152, -51877
+"dpStageZs", 152, 8609.63
+"dpStageZ2s", 152, 0
+"bStageUseZTravelOffsets", 152, FALSE
+"iStageSampleLoaderPos", 152, -9999
+"dpStageAFOffsets", 152, 0
+"lStageAFMemorizedPositionIDs", 152, -1
+"stStageLabels", 152, "96Well67-F07g_476dot2770"
+"bStagePosEnabled", 152, TRUE
+"dpStageXs", 153, -62650
+"dpStageYs", 153, -51993
+"dpStageZs", 153, 8609.63
+"dpStageZ2s", 153, 0
+"bStageUseZTravelOffsets", 153, FALSE
+"iStageSampleLoaderPos", 153, -9999
+"dpStageAFOffsets", 153, 0
+"lStageAFMemorizedPositionIDs", 153, -1
+"stStageLabels", 153, "96Well67-F07h_476dot2770"
+"bStagePosEnabled", 153, TRUE
+"dpStageXs", 154, -62650
+"dpStageYs", 154, -52109
+"dpStageZs", 154, 8609.63
+"dpStageZ2s", 154, 0
+"bStageUseZTravelOffsets", 154, FALSE
+"iStageSampleLoaderPos", 154, -9999
+"dpStageAFOffsets", 154, 0
+"lStageAFMemorizedPositionIDs", 154, -1
+"stStageLabels", 154, "96Well67-F07i_476dot2770"
+"bStagePosEnabled", 154, TRUE
+"dpStageXs", 155, -71534
+"dpStageYs", 155, -52109
+"dpStageZs", 155, 8609.76
+"dpStageZ2s", 155, 0
+"bStageUseZTravelOffsets", 155, FALSE
+"iStageSampleLoaderPos", 155, -9999
+"dpStageAFOffsets", 155, 0
+"lStageAFMemorizedPositionIDs", 155, -1
+"stStageLabels", 155, "96Well68-F08b_476dot2778"
+"bStagePosEnabled", 155, TRUE
+"dpStageXs", 156, -71418
+"dpStageYs", 156, -51993
+"dpStageZs", 156, 8609.76
+"dpStageZ2s", 156, 0
+"bStageUseZTravelOffsets", 156, FALSE
+"iStageSampleLoaderPos", 156, -9999
+"dpStageAFOffsets", 156, 0
+"lStageAFMemorizedPositionIDs", 156, -1
+"stStageLabels", 156, "96Well68-F08d_476dot2778"
+"bStagePosEnabled", 156, TRUE
+"dpStageXs", 157, -71418
+"dpStageYs", 157, -51877
+"dpStageZs", 157, 8609.76
+"dpStageZ2s", 157, 0
+"bStageUseZTravelOffsets", 157, FALSE
+"iStageSampleLoaderPos", 157, -9999
+"dpStageAFOffsets", 157, 0
+"lStageAFMemorizedPositionIDs", 157, -1
+"stStageLabels", 157, "96Well68-F08e_476dot2778"
+"bStagePosEnabled", 157, TRUE
+"dpStageXs", 158, -71534
+"dpStageYs", 158, -51877
+"dpStageZs", 158, 8609.76
+"dpStageZ2s", 158, 0
+"bStageUseZTravelOffsets", 158, FALSE
+"iStageSampleLoaderPos", 158, -9999
+"dpStageAFOffsets", 158, 0
+"lStageAFMemorizedPositionIDs", 158, -1
+"stStageLabels", 158, "96Well68-F08f_476dot2778"
+"bStagePosEnabled", 158, TRUE
+"dpStageXs", 159, -71650
+"dpStageYs", 159, -51877
+"dpStageZs", 159, 8609.76
+"dpStageZ2s", 159, 0
+"bStageUseZTravelOffsets", 159, FALSE
+"iStageSampleLoaderPos", 159, -9999
+"dpStageAFOffsets", 159, 0
+"lStageAFMemorizedPositionIDs", 159, -1
+"stStageLabels", 159, "96Well68-F08g_476dot2778"
+"bStagePosEnabled", 159, TRUE
+"dpStageXs", 160, -80534
+"dpStageYs", 160, -51993
+"dpStageZs", 160, 8624.05
+"dpStageZ2s", 160, 0
+"bStageUseZTravelOffsets", 160, FALSE
+"iStageSampleLoaderPos", 160, -9999
+"dpStageAFOffsets", 160, 0
+"lStageAFMemorizedPositionIDs", 160, -1
+"stStageLabels", 160, "96Well69-F09a_476dot2786"
+"bStagePosEnabled", 160, TRUE
+"dpStageXs", 161, -80418
+"dpStageYs", 161, -51877
+"dpStageZs", 161, 8624.05
+"dpStageZ2s", 161, 0
+"bStageUseZTravelOffsets", 161, FALSE
+"iStageSampleLoaderPos", 161, -9999
+"dpStageAFOffsets", 161, 0
+"lStageAFMemorizedPositionIDs", 161, -1
+"stStageLabels", 161, "96Well69-F09e_476dot2786"
+"bStagePosEnabled", 161, TRUE
+"dpStageXs", 162, -80534
+"dpStageYs", 162, -51877
+"dpStageZs", 162, 8624.05
+"dpStageZ2s", 162, 0
+"bStageUseZTravelOffsets", 162, FALSE
+"iStageSampleLoaderPos", 162, -9999
+"dpStageAFOffsets", 162, 0
+"lStageAFMemorizedPositionIDs", 162, -1
+"stStageLabels", 162, "96Well69-F09f_476dot2786"
+"bStagePosEnabled", 162, TRUE
+"dpStageXs", 163, -80650
+"dpStageYs", 163, -52109
+"dpStageZs", 163, 8624.05
+"dpStageZ2s", 163, 0
+"bStageUseZTravelOffsets", 163, FALSE
+"iStageSampleLoaderPos", 163, -9999
+"dpStageAFOffsets", 163, 0
+"lStageAFMemorizedPositionIDs", 163, -1
+"stStageLabels", 163, "96Well69-F09i_476dot2786"
+"bStagePosEnabled", 163, TRUE
+"dpStageXs", 164, -89534
+"dpStageYs", 164, -51993
+"dpStageZs", 164, 8637.68
+"dpStageZ2s", 164, 0
+"bStageUseZTravelOffsets", 164, FALSE
+"iStageSampleLoaderPos", 164, -9999
+"dpStageAFOffsets", 164, 0
+"lStageAFMemorizedPositionIDs", 164, -1
+"stStageLabels", 164, "96Well70-F10a_476dot2794"
+"bStagePosEnabled", 164, TRUE
+"dpStageXs", 165, -89418
+"dpStageYs", 165, -52109
+"dpStageZs", 165, 8637.68
+"dpStageZ2s", 165, 0
+"bStageUseZTravelOffsets", 165, FALSE
+"iStageSampleLoaderPos", 165, -9999
+"dpStageAFOffsets", 165, 0
+"lStageAFMemorizedPositionIDs", 165, -1
+"stStageLabels", 165, "96Well70-F10c_476dot2794"
+"bStagePosEnabled", 165, TRUE
+"dpStageXs", 166, -89418
+"dpStageYs", 166, -51993
+"dpStageZs", 166, 8637.68
+"dpStageZ2s", 166, 0
+"bStageUseZTravelOffsets", 166, FALSE
+"iStageSampleLoaderPos", 166, -9999
+"dpStageAFOffsets", 166, 0
+"lStageAFMemorizedPositionIDs", 166, -1
+"stStageLabels", 166, "96Well70-F10d_476dot2794"
+"bStagePosEnabled", 166, TRUE
+"dpStageXs", 167, -89418
+"dpStageYs", 167, -51877
+"dpStageZs", 167, 8637.68
+"dpStageZ2s", 167, 0
+"bStageUseZTravelOffsets", 167, FALSE
+"iStageSampleLoaderPos", 167, -9999
+"dpStageAFOffsets", 167, 0
+"lStageAFMemorizedPositionIDs", 167, -1
+"stStageLabels", 167, "96Well70-F10e_476dot2794"
+"bStagePosEnabled", 167, TRUE
+"dpStageXs", 168, -89650
+"dpStageYs", 168, -51877
+"dpStageZs", 168, 8637.68
+"dpStageZ2s", 168, 0
+"bStageUseZTravelOffsets", 168, FALSE
+"iStageSampleLoaderPos", 168, -9999
+"dpStageAFOffsets", 168, 0
+"lStageAFMemorizedPositionIDs", 168, -1
+"stStageLabels", 168, "96Well70-F10g_476dot2794"
+"bStagePosEnabled", 168, TRUE
+"dpStageXs", 169, -89650
+"dpStageYs", 169, -52109
+"dpStageZs", 169, 8637.68
+"dpStageZ2s", 169, 0
+"bStageUseZTravelOffsets", 169, FALSE
+"iStageSampleLoaderPos", 169, -9999
+"dpStageAFOffsets", 169, 0
+"lStageAFMemorizedPositionIDs", 169, -1
+"stStageLabels", 169, "96Well70-F10i_476dot2794"
+"bStagePosEnabled", 169, TRUE
+"dpStageXs", 170, -98650
+"dpStageYs", 170, -51877
+"dpStageZs", 170, 8633.54
+"dpStageZ2s", 170, 0
+"bStageUseZTravelOffsets", 170, FALSE
+"iStageSampleLoaderPos", 170, -9999
+"dpStageAFOffsets", 170, 0
+"lStageAFMemorizedPositionIDs", 170, -1
+"stStageLabels", 170, "96Well71-F11g_476dot2802"
+"bStagePosEnabled", 170, TRUE
+"dpStageXs", 171, -98650
+"dpStageYs", 171, -52109
+"dpStageZs", 171, 8633.54
+"dpStageZ2s", 171, 0
+"bStageUseZTravelOffsets", 171, FALSE
+"iStageSampleLoaderPos", 171, -9999
+"dpStageAFOffsets", 171, 0
+"lStageAFMemorizedPositionIDs", 171, -1
+"stStageLabels", 171, "96Well71-F11i_476dot2802"
+"bStagePosEnabled", 171, TRUE
+"dpStageXs", 172, -44534
+"dpStageYs", 172, -60993
+"dpStageZs", 172, 8672.35
+"dpStageZ2s", 172, 0
+"bStageUseZTravelOffsets", 172, FALSE
+"iStageSampleLoaderPos", 172, -9999
+"dpStageAFOffsets", 172, 0
+"lStageAFMemorizedPositionIDs", 172, -1
+"stStageLabels", 172, "96Well77-G05a_476dot2754"
+"bStagePosEnabled", 172, TRUE
+"dpStageXs", 173, -44418
+"dpStageYs", 173, -61109
+"dpStageZs", 173, 8672.35
+"dpStageZ2s", 173, 0
+"bStageUseZTravelOffsets", 173, FALSE
+"iStageSampleLoaderPos", 173, -9999
+"dpStageAFOffsets", 173, 0
+"lStageAFMemorizedPositionIDs", 173, -1
+"stStageLabels", 173, "96Well77-G05c_476dot2754"
+"bStagePosEnabled", 173, TRUE
+"dpStageXs", 174, -44534
+"dpStageYs", 174, -60877
+"dpStageZs", 174, 8672.35
+"dpStageZ2s", 174, 0
+"bStageUseZTravelOffsets", 174, FALSE
+"iStageSampleLoaderPos", 174, -9999
+"dpStageAFOffsets", 174, 0
+"lStageAFMemorizedPositionIDs", 174, -1
+"stStageLabels", 174, "96Well77-G05f_476dot2754"
+"bStagePosEnabled", 174, TRUE
+"dpStageXs", 175, -53534
+"dpStageYs", 175, -61109
+"dpStageZs", 175, 8665.97
+"dpStageZ2s", 175, 0
+"bStageUseZTravelOffsets", 175, FALSE
+"iStageSampleLoaderPos", 175, -9999
+"dpStageAFOffsets", 175, 0
+"lStageAFMemorizedPositionIDs", 175, -1
+"stStageLabels", 175, "96Well78-G06b_476dot2762"
+"bStagePosEnabled", 175, TRUE
+"dpStageXs", 176, -53418
+"dpStageYs", 176, -60877
+"dpStageZs", 176, 8665.97
+"dpStageZ2s", 176, 0
+"bStageUseZTravelOffsets", 176, FALSE
+"iStageSampleLoaderPos", 176, -9999
+"dpStageAFOffsets", 176, 0
+"lStageAFMemorizedPositionIDs", 176, -1
+"stStageLabels", 176, "96Well78-G06e_476dot2762"
+"bStagePosEnabled", 176, TRUE
+"dpStageXs", 177, -53650
+"dpStageYs", 177, -61109
+"dpStageZs", 177, 8665.97
+"dpStageZ2s", 177, 0
+"bStageUseZTravelOffsets", 177, FALSE
+"iStageSampleLoaderPos", 177, -9999
+"dpStageAFOffsets", 177, 0
+"lStageAFMemorizedPositionIDs", 177, -1
+"stStageLabels", 177, "96Well78-G06i_476dot2762"
+"bStagePosEnabled", 177, TRUE
+"dpStageXs", 178, -62534
+"dpStageYs", 178, -60993
+"dpStageZs", 178, 8650.15
+"dpStageZ2s", 178, 0
+"bStageUseZTravelOffsets", 178, FALSE
+"iStageSampleLoaderPos", 178, -9999
+"dpStageAFOffsets", 178, 0
+"lStageAFMemorizedPositionIDs", 178, -1
+"stStageLabels", 178, "96Well79-G07a_476dot2770"
+"bStagePosEnabled", 178, TRUE
+"dpStageXs", 179, -62418
+"dpStageYs", 179, -61109
+"dpStageZs", 179, 8650.15
+"dpStageZ2s", 179, 0
+"bStageUseZTravelOffsets", 179, FALSE
+"iStageSampleLoaderPos", 179, -9999
+"dpStageAFOffsets", 179, 0
+"lStageAFMemorizedPositionIDs", 179, -1
+"stStageLabels", 179, "96Well79-G07c_476dot2770"
+"bStagePosEnabled", 179, TRUE
+"dpStageXs", 180, -62418
+"dpStageYs", 180, -60993
+"dpStageZs", 180, 8650.15
+"dpStageZ2s", 180, 0
+"bStageUseZTravelOffsets", 180, FALSE
+"iStageSampleLoaderPos", 180, -9999
+"dpStageAFOffsets", 180, 0
+"lStageAFMemorizedPositionIDs", 180, -1
+"stStageLabels", 180, "96Well79-G07d_476dot2770"
+"bStagePosEnabled", 180, TRUE
+"dpStageXs", 181, -62534
+"dpStageYs", 181, -60877
+"dpStageZs", 181, 8650.15
+"dpStageZ2s", 181, 0
+"bStageUseZTravelOffsets", 181, FALSE
+"iStageSampleLoaderPos", 181, -9999
+"dpStageAFOffsets", 181, 0
+"lStageAFMemorizedPositionIDs", 181, -1
+"stStageLabels", 181, "96Well79-G07f_476dot2770"
+"bStagePosEnabled", 181, TRUE
+"dpStageXs", 182, -62650
+"dpStageYs", 182, -60877
+"dpStageZs", 182, 8650.15
+"dpStageZ2s", 182, 0
+"bStageUseZTravelOffsets", 182, FALSE
+"iStageSampleLoaderPos", 182, -9999
+"dpStageAFOffsets", 182, 0
+"lStageAFMemorizedPositionIDs", 182, -1
+"stStageLabels", 182, "96Well79-G07g_476dot2770"
+"bStagePosEnabled", 182, TRUE
+"dpStageXs", 183, -71534
+"dpStageYs", 183, -60993
+"dpStageZs", 183, 8644.2
+"dpStageZ2s", 183, 0
+"bStageUseZTravelOffsets", 183, FALSE
+"iStageSampleLoaderPos", 183, -9999
+"dpStageAFOffsets", 183, 0
+"lStageAFMemorizedPositionIDs", 183, -1
+"stStageLabels", 183, "96Well80-G08a_476dot2778"
+"bStagePosEnabled", 183, TRUE
+"dpStageXs", 184, -71418
+"dpStageYs", 184, -61109
+"dpStageZs", 184, 8644.2
+"dpStageZ2s", 184, 0
+"bStageUseZTravelOffsets", 184, FALSE
+"iStageSampleLoaderPos", 184, -9999
+"dpStageAFOffsets", 184, 0
+"lStageAFMemorizedPositionIDs", 184, -1
+"stStageLabels", 184, "96Well80-G08c_476dot2778"
+"bStagePosEnabled", 184, TRUE
+"dpStageXs", 185, -71418
+"dpStageYs", 185, -60993
+"dpStageZs", 185, 8644.2
+"dpStageZ2s", 185, 0
+"bStageUseZTravelOffsets", 185, FALSE
+"iStageSampleLoaderPos", 185, -9999
+"dpStageAFOffsets", 185, 0
+"lStageAFMemorizedPositionIDs", 185, -1
+"stStageLabels", 185, "96Well80-G08d_476dot2778"
+"bStagePosEnabled", 185, TRUE
+"dpStageXs", 186, -71418
+"dpStageYs", 186, -60877
+"dpStageZs", 186, 8644.2
+"dpStageZ2s", 186, 0
+"bStageUseZTravelOffsets", 186, FALSE
+"iStageSampleLoaderPos", 186, -9999
+"dpStageAFOffsets", 186, 0
+"lStageAFMemorizedPositionIDs", 186, -1
+"stStageLabels", 186, "96Well80-G08e_476dot2778"
+"bStagePosEnabled", 186, TRUE
+"dpStageXs", 187, -71534
+"dpStageYs", 187, -60877
+"dpStageZs", 187, 8644.2
+"dpStageZ2s", 187, 0
+"bStageUseZTravelOffsets", 187, FALSE
+"iStageSampleLoaderPos", 187, -9999
+"dpStageAFOffsets", 187, 0
+"lStageAFMemorizedPositionIDs", 187, -1
+"stStageLabels", 187, "96Well80-G08f_476dot2778"
+"bStagePosEnabled", 187, TRUE
+"dpStageXs", 188, -71650
+"dpStageYs", 188, -60877
+"dpStageZs", 188, 8644.2
+"dpStageZ2s", 188, 0
+"bStageUseZTravelOffsets", 188, FALSE
+"iStageSampleLoaderPos", 188, -9999
+"dpStageAFOffsets", 188, 0
+"lStageAFMemorizedPositionIDs", 188, -1
+"stStageLabels", 188, "96Well80-G08g_476dot2778"
+"bStagePosEnabled", 188, TRUE
+"dpStageXs", 189, -71650
+"dpStageYs", 189, -60993
+"dpStageZs", 189, 8644.2
+"dpStageZ2s", 189, 0
+"bStageUseZTravelOffsets", 189, FALSE
+"iStageSampleLoaderPos", 189, -9999
+"dpStageAFOffsets", 189, 0
+"lStageAFMemorizedPositionIDs", 189, -1
+"stStageLabels", 189, "96Well80-G08h_476dot2778"
+"bStagePosEnabled", 189, TRUE
+"dpStageXs", 190, -80534
+"dpStageYs", 190, -61109
+"dpStageZs", 190, 8649.18
+"dpStageZ2s", 190, 0
+"bStageUseZTravelOffsets", 190, FALSE
+"iStageSampleLoaderPos", 190, -9999
+"dpStageAFOffsets", 190, 0
+"lStageAFMemorizedPositionIDs", 190, -1
+"stStageLabels", 190, "96Well81-G09b_476dot2786"
+"bStagePosEnabled", 190, TRUE
+"dpStageXs", 191, -80418
+"dpStageYs", 191, -60993
+"dpStageZs", 191, 8649.18
+"dpStageZ2s", 191, 0
+"bStageUseZTravelOffsets", 191, FALSE
+"iStageSampleLoaderPos", 191, -9999
+"dpStageAFOffsets", 191, 0
+"lStageAFMemorizedPositionIDs", 191, -1
+"stStageLabels", 191, "96Well81-G09d_476dot2786"
+"bStagePosEnabled", 191, TRUE
+"dpStageXs", 192, -80534
+"dpStageYs", 192, -60877
+"dpStageZs", 192, 8649.18
+"dpStageZ2s", 192, 0
+"bStageUseZTravelOffsets", 192, FALSE
+"iStageSampleLoaderPos", 192, -9999
+"dpStageAFOffsets", 192, 0
+"lStageAFMemorizedPositionIDs", 192, -1
+"stStageLabels", 192, "96Well81-G09f_476dot2786"
+"bStagePosEnabled", 192, TRUE
+"dpStageXs", 193, -80650
+"dpStageYs", 193, -60877
+"dpStageZs", 193, 8649.18
+"dpStageZ2s", 193, 0
+"bStageUseZTravelOffsets", 193, FALSE
+"iStageSampleLoaderPos", 193, -9999
+"dpStageAFOffsets", 193, 0
+"lStageAFMemorizedPositionIDs", 193, -1
+"stStageLabels", 193, "96Well81-G09g_476dot2786"
+"bStagePosEnabled", 193, TRUE
+"dpStageXs", 194, -80650
+"dpStageYs", 194, -60993
+"dpStageZs", 194, 8649.18
+"dpStageZ2s", 194, 0
+"bStageUseZTravelOffsets", 194, FALSE
+"iStageSampleLoaderPos", 194, -9999
+"dpStageAFOffsets", 194, 0
+"lStageAFMemorizedPositionIDs", 194, -1
+"stStageLabels", 194, "96Well81-G09h_476dot2786"
+"bStagePosEnabled", 194, TRUE
+"dpStageXs", 195, -80650
+"dpStageYs", 195, -61109
+"dpStageZs", 195, 8649.18
+"dpStageZ2s", 195, 0
+"bStageUseZTravelOffsets", 195, FALSE
+"iStageSampleLoaderPos", 195, -9999
+"dpStageAFOffsets", 195, 0
+"lStageAFMemorizedPositionIDs", 195, -1
+"stStageLabels", 195, "96Well81-G09i_476dot2786"
+"bStagePosEnabled", 195, TRUE
+"dpStageXs", 196, -89534
+"dpStageYs", 196, -60993
+"dpStageZs", 196, 8654.98
+"dpStageZ2s", 196, 0
+"bStageUseZTravelOffsets", 196, FALSE
+"iStageSampleLoaderPos", 196, -9999
+"dpStageAFOffsets", 196, 0
+"lStageAFMemorizedPositionIDs", 196, -1
+"stStageLabels", 196, "96Well82-G10a_476dot2794"
+"bStagePosEnabled", 196, TRUE
+"dpStageXs", 197, -89534
+"dpStageYs", 197, -61109
+"dpStageZs", 197, 8654.98
+"dpStageZ2s", 197, 0
+"bStageUseZTravelOffsets", 197, FALSE
+"iStageSampleLoaderPos", 197, -9999
+"dpStageAFOffsets", 197, 0
+"lStageAFMemorizedPositionIDs", 197, -1
+"stStageLabels", 197, "96Well82-G10b_476dot2794"
+"bStagePosEnabled", 197, TRUE
+"dpStageXs", 198, -89418
+"dpStageYs", 198, -61109
+"dpStageZs", 198, 8654.98
+"dpStageZ2s", 198, 0
+"bStageUseZTravelOffsets", 198, FALSE
+"iStageSampleLoaderPos", 198, -9999
+"dpStageAFOffsets", 198, 0
+"lStageAFMemorizedPositionIDs", 198, -1
+"stStageLabels", 198, "96Well82-G10c_476dot2794"
+"bStagePosEnabled", 198, TRUE
+"dpStageXs", 199, -89418
+"dpStageYs", 199, -60993
+"dpStageZs", 199, 8654.98
+"dpStageZ2s", 199, 0
+"bStageUseZTravelOffsets", 199, FALSE
+"iStageSampleLoaderPos", 199, -9999
+"dpStageAFOffsets", 199, 0
+"lStageAFMemorizedPositionIDs", 199, -1
+"stStageLabels", 199, "96Well82-G10d_476dot2794"
+"bStagePosEnabled", 199, TRUE
+"dpStageXs", 200, -89534
+"dpStageYs", 200, -60877
+"dpStageZs", 200, 8654.98
+"dpStageZ2s", 200, 0
+"bStageUseZTravelOffsets", 200, FALSE
+"iStageSampleLoaderPos", 200, -9999
+"dpStageAFOffsets", 200, 0
+"lStageAFMemorizedPositionIDs", 200, -1
+"stStageLabels", 200, "96Well82-G10f_476dot2794"
+"bStagePosEnabled", 200, TRUE
+"dpStageXs", 201, -89650
+"dpStageYs", 201, -60993
+"dpStageZs", 201, 8654.98
+"dpStageZ2s", 201, 0
+"bStageUseZTravelOffsets", 201, FALSE
+"iStageSampleLoaderPos", 201, -9999
+"dpStageAFOffsets", 201, 0
+"lStageAFMemorizedPositionIDs", 201, -1
+"stStageLabels", 201, "96Well82-G10h_476dot2794"
+"bStagePosEnabled", 201, TRUE
+"dpStageXs", 202, -98534
+"dpStageYs", 202, -60993
+"dpStageZs", 202, 8644.92
+"dpStageZ2s", 202, 0
+"bStageUseZTravelOffsets", 202, FALSE
+"iStageSampleLoaderPos", 202, -9999
+"dpStageAFOffsets", 202, 0
+"lStageAFMemorizedPositionIDs", 202, -1
+"stStageLabels", 202, "96Well83-G11a_476dot2802"
+"bStagePosEnabled", 202, TRUE
+"dpStageXs", 203, -98534
+"dpStageYs", 203, -61109
+"dpStageZs", 203, 8644.92
+"dpStageZ2s", 203, 0
+"bStageUseZTravelOffsets", 203, FALSE
+"iStageSampleLoaderPos", 203, -9999
+"dpStageAFOffsets", 203, 0
+"lStageAFMemorizedPositionIDs", 203, -1
+"stStageLabels", 203, "96Well83-G11b_476dot2802"
+"bStagePosEnabled", 203, TRUE
+"dpStageXs", 204, -98418
+"dpStageYs", 204, -60877
+"dpStageZs", 204, 8644.92
+"dpStageZ2s", 204, 0
+"bStageUseZTravelOffsets", 204, FALSE
+"iStageSampleLoaderPos", 204, -9999
+"dpStageAFOffsets", 204, 0
+"lStageAFMemorizedPositionIDs", 204, -1
+"stStageLabels", 204, "96Well83-G11e_476dot2802"
+"bStagePosEnabled", 204, TRUE
+"dpStageXs", 205, -98650
+"dpStageYs", 205, -61109
+"dpStageZs", 205, 8644.92
+"dpStageZ2s", 205, 0
+"bStageUseZTravelOffsets", 205, FALSE
+"iStageSampleLoaderPos", 205, -9999
+"dpStageAFOffsets", 205, 0
+"lStageAFMemorizedPositionIDs", 205, -1
+"stStageLabels", 205, "96Well83-G11i_476dot2802"
+"bStagePosEnabled", 205, TRUE
+"dpStageXs", 206, -53418
+"dpStageYs", 206, -69877
+"dpStageZs", 206, 8713.5
+"dpStageZ2s", 206, 0
+"bStageUseZTravelOffsets", 206, FALSE
+"iStageSampleLoaderPos", 206, -9999
+"dpStageAFOffsets", 206, 0
+"lStageAFMemorizedPositionIDs", 206, -1
+"stStageLabels", 206, "96Well90-H06e_476dot2762"
+"bStagePosEnabled", 206, TRUE
+"dpStageXs", 207, -53650
+"dpStageYs", 207, -69877
+"dpStageZs", 207, 8713.5
+"dpStageZ2s", 207, 0
+"bStageUseZTravelOffsets", 207, FALSE
+"iStageSampleLoaderPos", 207, -9999
+"dpStageAFOffsets", 207, 0
+"lStageAFMemorizedPositionIDs", 207, -1
+"stStageLabels", 207, "96Well90-H06g_476dot2762"
+"bStagePosEnabled", 207, TRUE
+"dpStageXs", 208, -62534
+"dpStageYs", 208, -69993
+"dpStageZs", 208, 8698.43
+"dpStageZ2s", 208, 0
+"bStageUseZTravelOffsets", 208, FALSE
+"iStageSampleLoaderPos", 208, -9999
+"dpStageAFOffsets", 208, 0
+"lStageAFMemorizedPositionIDs", 208, -1
+"stStageLabels", 208, "96Well91-H07a_476dot2770"
+"bStagePosEnabled", 208, TRUE
+"dpStageXs", 209, -62650
+"dpStageYs", 209, -69877
+"dpStageZs", 209, 8698.43
+"dpStageZ2s", 209, 0
+"bStageUseZTravelOffsets", 209, FALSE
+"iStageSampleLoaderPos", 209, -9999
+"dpStageAFOffsets", 209, 0
+"lStageAFMemorizedPositionIDs", 209, -1
+"stStageLabels", 209, "96Well91-H07g_476dot2770"
+"bStagePosEnabled", 209, TRUE
+"dpStageXs", 210, -71418
+"dpStageYs", 210, -69993
+"dpStageZs", 210, 8686.43
+"dpStageZ2s", 210, 0
+"bStageUseZTravelOffsets", 210, FALSE
+"iStageSampleLoaderPos", 210, -9999
+"dpStageAFOffsets", 210, 0
+"lStageAFMemorizedPositionIDs", 210, -1
+"stStageLabels", 210, "96Well92-H08d_476dot2778"
+"bStagePosEnabled", 210, TRUE
+"dpStageXs", 211, -80534
+"dpStageYs", 211, -69993
+"dpStageZs", 211, 8682.08
+"dpStageZ2s", 211, 0
+"bStageUseZTravelOffsets", 211, FALSE
+"iStageSampleLoaderPos", 211, -9999
+"dpStageAFOffsets", 211, 0
+"lStageAFMemorizedPositionIDs", 211, -1
+"stStageLabels", 211, "96Well93-H09a_476dot2786"
+"bStagePosEnabled", 211, TRUE
+"dpStageXs", 212, -80534
+"dpStageYs", 212, -70109
+"dpStageZs", 212, 8682.08
+"dpStageZ2s", 212, 0
+"bStageUseZTravelOffsets", 212, FALSE
+"iStageSampleLoaderPos", 212, -9999
+"dpStageAFOffsets", 212, 0
+"lStageAFMemorizedPositionIDs", 212, -1
+"stStageLabels", 212, "96Well93-H09b_476dot2786"
+"bStagePosEnabled", 212, TRUE
+"dpStageXs", 213, -80418
+"dpStageYs", 213, -70109
+"dpStageZs", 213, 8682.08
+"dpStageZ2s", 213, 0
+"bStageUseZTravelOffsets", 213, FALSE
+"iStageSampleLoaderPos", 213, -9999
+"dpStageAFOffsets", 213, 0
+"lStageAFMemorizedPositionIDs", 213, -1
+"stStageLabels", 213, "96Well93-H09c_476dot2786"
+"bStagePosEnabled", 213, TRUE
+"dpStageXs", 214, -80418
+"dpStageYs", 214, -69877
+"dpStageZs", 214, 8682.08
+"dpStageZ2s", 214, 0
+"bStageUseZTravelOffsets", 214, FALSE
+"iStageSampleLoaderPos", 214, -9999
+"dpStageAFOffsets", 214, 0
+"lStageAFMemorizedPositionIDs", 214, -1
+"stStageLabels", 214, "96Well93-H09e_476dot2786"
+"bStagePosEnabled", 214, TRUE
+"dpStageXs", 215, -80534
+"dpStageYs", 215, -69877
+"dpStageZs", 215, 8682.08
+"dpStageZ2s", 215, 0
+"bStageUseZTravelOffsets", 215, FALSE
+"iStageSampleLoaderPos", 215, -9999
+"dpStageAFOffsets", 215, 0
+"lStageAFMemorizedPositionIDs", 215, -1
+"stStageLabels", 215, "96Well93-H09f_476dot2786"
+"bStagePosEnabled", 215, TRUE
+"dpStageXs", 216, -80650
+"dpStageYs", 216, -69877
+"dpStageZs", 216, 8682.08
+"dpStageZ2s", 216, 0
+"bStageUseZTravelOffsets", 216, FALSE
+"iStageSampleLoaderPos", 216, -9999
+"dpStageAFOffsets", 216, 0
+"lStageAFMemorizedPositionIDs", 216, -1
+"stStageLabels", 216, "96Well93-H09g_476dot2786"
+"bStagePosEnabled", 216, TRUE
+"dpStageXs", 217, -80650
+"dpStageYs", 217, -70109
+"dpStageZs", 217, 8682.08
+"dpStageZ2s", 217, 0
+"bStageUseZTravelOffsets", 217, FALSE
+"iStageSampleLoaderPos", 217, -9999
+"dpStageAFOffsets", 217, 0
+"lStageAFMemorizedPositionIDs", 217, -1
+"stStageLabels", 217, "96Well93-H09i_476dot2786"
+"bStagePosEnabled", 217, TRUE
+"dpStageXs", 218, -89534
+"dpStageYs", 218, -70109
+"dpStageZs", 218, 8676.19
+"dpStageZ2s", 218, 0
+"bStageUseZTravelOffsets", 218, FALSE
+"iStageSampleLoaderPos", 218, -9999
+"dpStageAFOffsets", 218, 0
+"lStageAFMemorizedPositionIDs", 218, -1
+"stStageLabels", 218, "96Well94-H10b_476dot2794"
+"bStagePosEnabled", 218, TRUE
+"dpStageXs", 219, -89418
+"dpStageYs", 219, -70109
+"dpStageZs", 219, 8676.19
+"dpStageZ2s", 219, 0
+"bStageUseZTravelOffsets", 219, FALSE
+"iStageSampleLoaderPos", 219, -9999
+"dpStageAFOffsets", 219, 0
+"lStageAFMemorizedPositionIDs", 219, -1
+"stStageLabels", 219, "96Well94-H10c_476dot2794"
+"bStagePosEnabled", 219, TRUE
+"dpStageXs", 220, -89418
+"dpStageYs", 220, -69877
+"dpStageZs", 220, 8676.19
+"dpStageZ2s", 220, 0
+"bStageUseZTravelOffsets", 220, FALSE
+"iStageSampleLoaderPos", 220, -9999
+"dpStageAFOffsets", 220, 0
+"lStageAFMemorizedPositionIDs", 220, -1
+"stStageLabels", 220, "96Well94-H10e_476dot2794"
+"bStagePosEnabled", 220, TRUE
+"dpStageXs", 221, -89650
+"dpStageYs", 221, -69993
+"dpStageZs", 221, 8676.19
+"dpStageZ2s", 221, 0
+"bStageUseZTravelOffsets", 221, FALSE
+"iStageSampleLoaderPos", 221, -9999
+"dpStageAFOffsets", 221, 0
+"lStageAFMemorizedPositionIDs", 221, -1
+"stStageLabels", 221, "96Well94-H10h_476dot2794"
+"bStagePosEnabled", 221, TRUE
+"dpStageXs", 222, -98534
+"dpStageYs", 222, -70109
+"dpStageZs", 222, 8655.19
+"dpStageZ2s", 222, 0
+"bStageUseZTravelOffsets", 222, FALSE
+"iStageSampleLoaderPos", 222, -9999
+"dpStageAFOffsets", 222, 0
+"lStageAFMemorizedPositionIDs", 222, -1
+"stStageLabels", 222, "96Well95-H11b_476dot2802"
+"bStagePosEnabled", 222, TRUE
+"dpStageXs", 223, -98418
+"dpStageYs", 223, -70109
+"dpStageZs", 223, 8655.19
+"dpStageZ2s", 223, 0
+"bStageUseZTravelOffsets", 223, FALSE
+"iStageSampleLoaderPos", 223, -9999
+"dpStageAFOffsets", 223, 0
+"lStageAFMemorizedPositionIDs", 223, -1
+"stStageLabels", 223, "96Well95-H11c_476dot2802"
+"bStagePosEnabled", 223, TRUE
+"dpStageXs", 224, -98534
+"dpStageYs", 224, -69877
+"dpStageZs", 224, 8655.19
+"dpStageZ2s", 224, 0
+"bStageUseZTravelOffsets", 224, FALSE
+"iStageSampleLoaderPos", 224, -9999
+"dpStageAFOffsets", 224, 0
+"lStageAFMemorizedPositionIDs", 224, -1
+"stStageLabels", 224, "96Well95-H11f_476dot2802"
+"bStagePosEnabled", 224, TRUE
+"dpStageXs", 225, -98650
+"dpStageYs", 225, -69877
+"dpStageZs", 225, 8655.19
+"dpStageZ2s", 225, 0
+"bStageUseZTravelOffsets", 225, FALSE
+"iStageSampleLoaderPos", 225, -9999
+"dpStageAFOffsets", 225, 0
+"lStageAFMemorizedPositionIDs", 225, -1
+"stStageLabels", 225, "96Well95-H11g_476dot2802"
+"bStagePosEnabled", 225, TRUE
+"dpStageXs", 226, -98650
+"dpStageYs", 226, -69993
+"dpStageZs", 226, 8655.19
+"dpStageZ2s", 226, 0
+"bStageUseZTravelOffsets", 226, FALSE
+"iStageSampleLoaderPos", 226, -9999
+"dpStageAFOffsets", 226, 0
+"lStageAFMemorizedPositionIDs", 226, -1
+"stStageLabels", 226, "96Well95-H11h_476dot2802"
+"bStagePosEnabled", 226, TRUE
+"dpStageXs", 227, -98650
+"dpStageYs", 227, -70109
+"dpStageZs", 227, 8655.19
+"dpStageZ2s", 227, 0
+"bStageUseZTravelOffsets", 227, FALSE
+"iStageSampleLoaderPos", 227, -9999
+"dpStageAFOffsets", 227, 0
+"lStageAFMemorizedPositionIDs", 227, -1
+"stStageLabels", 227, "96Well95-H11i_476dot2802"
+"bStagePosEnabled", 227, TRUE
+"nZSteps", 3
+"dpZStepSize", 1
+"bZRange", TRUE
+"dpZTop", 19.88
+"dpZBottom", 17.88
+"idxZLoopOrder", 1
+"bKeepShutterOpenEachZ", FALSE
+"nAFSearchType", 1
+"idxAFAlgorithm", 1
+"dAFRange", 3
+"dAFAccuracy", 1
+"dAFMaxStepSize", 2
+"bAFDisplayImages", TRUE
+"bAFUpdateZ", TRUE
+"bAFBacklashCompensation", TRUE
+"nWavelengths", 2
+"stSetOfIllumination", 1, "[None]"
+"dbSetOfExposures", 1, 28.73
+"iSetOfExposureUnits", 1, 1
+"dbSetOfGains", 1, 1
+"dbSetOfIntensifierGains1", 1, 20
+"dbSetOfIntensifierGains2", 1, 20
+"dbSetOfFrames", 1, 1
+"iSetOfAutoExposes", 1, 3
+"iSetOfAXFrequencies", 1, 2
+"iSetOfCollections", 1, 2
+"iSetOfWFrequencies", 1, 2
+"uSetOfTargets", 1, 3000
+"iSetOfAlignX", 1, 0
+"iSetOfAlignY", 1, 0
+"iSetOfAutoFocus", 1, 3
+"iSetOfAFFrequencies", 1, 2
+"bSetOfWaveDoZ", 1, FALSE
+"iSetOfXPos", 1, 13
+"iSetOfYPos", 1, 9
+"iSetOfZoom", 1, 100
+"dSetOfContrast", 1, 50
+"dSetOfBrightness", 1, 50
+"iSetOfLutModel", 1, 8
+"dSetOfGammaR", 1, 1
+"dSetOfGammaG", 1, 1
+"dSetOfGammaB", 1, 1
+"dSetOfGammaMono", 1, 1
+"bSetOfAutoScale", 1, TRUE
+"dSetOfAutoScaleHi", 1, 0
+"dSetOfAutoScaleLo", 1, 0
+"uSetOfMinScale", 1, 93
+"uSetOfMaxScale", 1, 106
+"bSetOfWaveDoStream", 1, TRUE
+"uiSetOfBinnings", 1, 1
+"uiSetOfTransferSpeeds", 1, 2
+"dbSetOfWaveZOffsets", 1, 6.1027e-318
+"dbSetOfWaveZDCOffsets", 1, 0
+"lSetOfWaveAFMemorizedPositionIDs", 1, 96
+"stSetOfWaveAFMemorizedPositionData", 1, ""
+"dbSetOfWaveOptiGridZPositions", 1, 0
+"stSetOfIllumination", 2, "[None]"
+"dbSetOfExposures", 2, 100
+"iSetOfExposureUnits", 2, 1
+"dbSetOfGains", 2, 1
+"dbSetOfIntensifierGains1", 2, 0
+"dbSetOfIntensifierGains2", 2, 0
+"dbSetOfFrames", 2, 1
+"iSetOfAutoExposes", 2, 3
+"iSetOfAXFrequencies", 2, 2
+"iSetOfCollections", 2, 1
+"iSetOfWFrequencies", 2, 2
+"uSetOfTargets", 2, 3000
+"iSetOfAlignX", 2, 0
+"iSetOfAlignY", 2, 0
+"iSetOfAutoFocus", 2, 3
+"iSetOfAFFrequencies", 2, 2
+"bSetOfWaveDoZ", 2, TRUE
+"iSetOfXPos", 2, 1071
+"iSetOfYPos", 2, 5
+"iSetOfZoom", 2, 100
+"dSetOfContrast", 2, 50
+"dSetOfBrightness", 2, 50
+"iSetOfLutModel", 2, 8
+"dSetOfGammaR", 2, 1
+"dSetOfGammaG", 2, 1
+"dSetOfGammaB", 2, 1
+"dSetOfGammaMono", 2, 1
+"bSetOfAutoScale", 2, TRUE
+"dSetOfAutoScaleHi", 2, 0
+"dSetOfAutoScaleLo", 2, 0
+"uSetOfMinScale", 2, 121
+"uSetOfMaxScale", 2, 319
+"bSetOfWaveDoStream", 2, TRUE
+"uiSetOfBinnings", 2, 1
+"uiSetOfTransferSpeeds", 2, 1
+"dbSetOfWaveZOffsets", 2, 6.1027e-318
+"dbSetOfWaveZDCOffsets", 2, 0
+"lSetOfWaveAFMemorizedPositionIDs", 2, 96
+"stSetOfWaveAFMemorizedPositionData", 2, ""
+"dbSetOfWaveOptiGridZPositions", 2, 0
+"stSetOfIllumination", 3, "[None]"
+"dbSetOfExposures", 3, 100
+"iSetOfExposureUnits", 3, 0
+"dbSetOfGains", 3, 0
+"dbSetOfIntensifierGains1", 3, 0
+"dbSetOfIntensifierGains2", 3, 0
+"dbSetOfFrames", 3, 1
+"iSetOfAutoExposes", 3, 2
+"iSetOfAXFrequencies", 3, 1
+"iSetOfCollections", 3, 1
+"iSetOfWFrequencies", 3, 1
+"uSetOfTargets", 3, 3000
+"iSetOfAlignX", 3, 0
+"iSetOfAlignY", 3, 0
+"iSetOfAutoFocus", 3, 1
+"iSetOfAFFrequencies", 3, 1
+"bSetOfWaveDoZ", 3, FALSE
+"iSetOfXPos", 3, 150
+"iSetOfYPos", 3, 150
+"iSetOfZoom", 3, 100
+"dSetOfContrast", 3, 50
+"dSetOfBrightness", 3, 50
+"iSetOfLutModel", 3, 8
+"dSetOfGammaR", 3, 1
+"dSetOfGammaG", 3, 1
+"dSetOfGammaB", 3, 1
+"dSetOfGammaMono", 3, 1
+"bSetOfAutoScale", 3, TRUE
+"dSetOfAutoScaleHi", 3, 0
+"dSetOfAutoScaleLo", 3, 0
+"uSetOfMinScale", 3, 0
+"uSetOfMaxScale", 3, 4096
+"bSetOfWaveDoStream", 3, FALSE
+"uiSetOfBinnings", 3, 1
+"uiSetOfTransferSpeeds", 3, 1
+"dbSetOfWaveZOffsets", 3, 0
+"dbSetOfWaveZDCOffsets", 3, 0
+"lSetOfWaveAFMemorizedPositionIDs", 3, -1
+"stSetOfWaveAFMemorizedPositionData", 3, ""
+"dbSetOfWaveOptiGridZPositions", 3, 0
+"stSetOfIllumination", 4, "[None]"
+"dbSetOfExposures", 4, 100
+"iSetOfExposureUnits", 4, 0
+"dbSetOfGains", 4, 0
+"dbSetOfIntensifierGains1", 4, 0
+"dbSetOfIntensifierGains2", 4, 0
+"dbSetOfFrames", 4, 1
+"iSetOfAutoExposes", 4, 2
+"iSetOfAXFrequencies", 4, 1
+"iSetOfCollections", 4, 1
+"iSetOfWFrequencies", 4, 1
+"uSetOfTargets", 4, 3000
+"iSetOfAlignX", 4, 0
+"iSetOfAlignY", 4, 0
+"iSetOfAutoFocus", 4, 1
+"iSetOfAFFrequencies", 4, 1
+"bSetOfWaveDoZ", 4, FALSE
+"iSetOfXPos", 4, 200
+"iSetOfYPos", 4, 200
+"iSetOfZoom", 4, 100
+"dSetOfContrast", 4, 50
+"dSetOfBrightness", 4, 50
+"iSetOfLutModel", 4, 8
+"dSetOfGammaR", 4, 1
+"dSetOfGammaG", 4, 1
+"dSetOfGammaB", 4, 1
+"dSetOfGammaMono", 4, 1
+"bSetOfAutoScale", 4, TRUE
+"dSetOfAutoScaleHi", 4, 0
+"dSetOfAutoScaleLo", 4, 0
+"uSetOfMinScale", 4, 0
+"uSetOfMaxScale", 4, 4096
+"bSetOfWaveDoStream", 4, FALSE
+"uiSetOfBinnings", 4, 1
+"uiSetOfTransferSpeeds", 4, 1
+"dbSetOfWaveZOffsets", 4, 0
+"dbSetOfWaveZDCOffsets", 4, 0
+"lSetOfWaveAFMemorizedPositionIDs", 4, -1
+"stSetOfWaveAFMemorizedPositionData", 4, ""
+"dbSetOfWaveOptiGridZPositions", 4, 0
+"stSetOfIllumination", 5, "[None]"
+"dbSetOfExposures", 5, 100
+"iSetOfExposureUnits", 5, 0
+"dbSetOfGains", 5, 0
+"dbSetOfIntensifierGains1", 5, 0
+"dbSetOfIntensifierGains2", 5, 0
+"dbSetOfFrames", 5, 1
+"iSetOfAutoExposes", 5, 2
+"iSetOfAXFrequencies", 5, 1
+"iSetOfCollections", 5, 1
+"iSetOfWFrequencies", 5, 1
+"uSetOfTargets", 5, 3000
+"iSetOfAlignX", 5, 0
+"iSetOfAlignY", 5, 0
+"iSetOfAutoFocus", 5, 1
+"iSetOfAFFrequencies", 5, 1
+"bSetOfWaveDoZ", 5, FALSE
+"iSetOfXPos", 5, 250
+"iSetOfYPos", 5, 250
+"iSetOfZoom", 5, 100
+"dSetOfContrast", 5, 50
+"dSetOfBrightness", 5, 50
+"iSetOfLutModel", 5, 8
+"dSetOfGammaR", 5, 1
+"dSetOfGammaG", 5, 1
+"dSetOfGammaB", 5, 1
+"dSetOfGammaMono", 5, 1
+"bSetOfAutoScale", 5, TRUE
+"dSetOfAutoScaleHi", 5, 0
+"dSetOfAutoScaleLo", 5, 0
+"uSetOfMinScale", 5, 0
+"uSetOfMaxScale", 5, 4096
+"bSetOfWaveDoStream", 5, FALSE
+"uiSetOfBinnings", 5, 1
+"uiSetOfTransferSpeeds", 5, 1
+"dbSetOfWaveZOffsets", 5, 0
+"dbSetOfWaveZDCOffsets", 5, 0
+"lSetOfWaveAFMemorizedPositionIDs", 5, -1
+"stSetOfWaveAFMemorizedPositionData", 5, ""
+"dbSetOfWaveOptiGridZPositions", 5, 0
+"stSetOfIllumination", 6, "[None]"
+"dbSetOfExposures", 6, 100
+"iSetOfExposureUnits", 6, 0
+"dbSetOfGains", 6, 0
+"dbSetOfIntensifierGains1", 6, 0
+"dbSetOfIntensifierGains2", 6, 0
+"dbSetOfFrames", 6, 1
+"iSetOfAutoExposes", 6, 2
+"iSetOfAXFrequencies", 6, 1
+"iSetOfCollections", 6, 1
+"iSetOfWFrequencies", 6, 1
+"uSetOfTargets", 6, 3000
+"iSetOfAlignX", 6, 0
+"iSetOfAlignY", 6, 0
+"iSetOfAutoFocus", 6, 1
+"iSetOfAFFrequencies", 6, 1
+"bSetOfWaveDoZ", 6, FALSE
+"iSetOfXPos", 6, 300
+"iSetOfYPos", 6, 300
+"iSetOfZoom", 6, 100
+"dSetOfContrast", 6, 50
+"dSetOfBrightness", 6, 50
+"iSetOfLutModel", 6, 8
+"dSetOfGammaR", 6, 1
+"dSetOfGammaG", 6, 1
+"dSetOfGammaB", 6, 1
+"dSetOfGammaMono", 6, 1
+"bSetOfAutoScale", 6, TRUE
+"dSetOfAutoScaleHi", 6, 0
+"dSetOfAutoScaleLo", 6, 0
+"uSetOfMinScale", 6, 0
+"uSetOfMaxScale", 6, 4096
+"bSetOfWaveDoStream", 6, FALSE
+"uiSetOfBinnings", 6, 1
+"uiSetOfTransferSpeeds", 6, 1
+"dbSetOfWaveZOffsets", 6, 0
+"dbSetOfWaveZDCOffsets", 6, 0
+"lSetOfWaveAFMemorizedPositionIDs", 6, -1
+"stSetOfWaveAFMemorizedPositionData", 6, ""
+"dbSetOfWaveOptiGridZPositions", 6, 0
+"stSetOfIllumination", 7, "[None]"
+"dbSetOfExposures", 7, 100
+"iSetOfExposureUnits", 7, 0
+"dbSetOfGains", 7, 0
+"dbSetOfIntensifierGains1", 7, 0
+"dbSetOfIntensifierGains2", 7, 0
+"dbSetOfFrames", 7, 1
+"iSetOfAutoExposes", 7, 2
+"iSetOfAXFrequencies", 7, 1
+"iSetOfCollections", 7, 1
+"iSetOfWFrequencies", 7, 1
+"uSetOfTargets", 7, 3000
+"iSetOfAlignX", 7, 0
+"iSetOfAlignY", 7, 0
+"iSetOfAutoFocus", 7, 1
+"iSetOfAFFrequencies", 7, 1
+"bSetOfWaveDoZ", 7, FALSE
+"iSetOfXPos", 7, 350
+"iSetOfYPos", 7, 350
+"iSetOfZoom", 7, 100
+"dSetOfContrast", 7, 50
+"dSetOfBrightness", 7, 50
+"iSetOfLutModel", 7, 8
+"dSetOfGammaR", 7, 1
+"dSetOfGammaG", 7, 1
+"dSetOfGammaB", 7, 1
+"dSetOfGammaMono", 7, 1
+"bSetOfAutoScale", 7, TRUE
+"dSetOfAutoScaleHi", 7, 0
+"dSetOfAutoScaleLo", 7, 0
+"uSetOfMinScale", 7, 0
+"uSetOfMaxScale", 7, 4096
+"bSetOfWaveDoStream", 7, FALSE
+"uiSetOfBinnings", 7, 1
+"uiSetOfTransferSpeeds", 7, 1
+"dbSetOfWaveZOffsets", 7, 0
+"dbSetOfWaveZDCOffsets", 7, 0
+"lSetOfWaveAFMemorizedPositionIDs", 7, -1
+"stSetOfWaveAFMemorizedPositionData", 7, ""
+"dbSetOfWaveOptiGridZPositions", 7, 0
+"stSetOfIllumination", 8, "[None]"
+"dbSetOfExposures", 8, 100
+"iSetOfExposureUnits", 8, 0
+"dbSetOfGains", 8, 0
+"dbSetOfIntensifierGains1", 8, 0
+"dbSetOfIntensifierGains2", 8, 0
+"dbSetOfFrames", 8, 1
+"iSetOfAutoExposes", 8, 2
+"iSetOfAXFrequencies", 8, 1
+"iSetOfCollections", 8, 1
+"iSetOfWFrequencies", 8, 1
+"uSetOfTargets", 8, 3000
+"iSetOfAlignX", 8, 0
+"iSetOfAlignY", 8, 0
+"iSetOfAutoFocus", 8, 1
+"iSetOfAFFrequencies", 8, 1
+"bSetOfWaveDoZ", 8, FALSE
+"iSetOfXPos", 8, 400
+"iSetOfYPos", 8, 400
+"iSetOfZoom", 8, 100
+"dSetOfContrast", 8, 50
+"dSetOfBrightness", 8, 50
+"iSetOfLutModel", 8, 8
+"dSetOfGammaR", 8, 1
+"dSetOfGammaG", 8, 1
+"dSetOfGammaB", 8, 1
+"dSetOfGammaMono", 8, 1
+"bSetOfAutoScale", 8, TRUE
+"dSetOfAutoScaleHi", 8, 0
+"dSetOfAutoScaleLo", 8, 0
+"uSetOfMinScale", 8, 0
+"uSetOfMaxScale", 8, 4096
+"bSetOfWaveDoStream", 8, FALSE
+"uiSetOfBinnings", 8, 1
+"uiSetOfTransferSpeeds", 8, 1
+"dbSetOfWaveZOffsets", 8, 0
+"dbSetOfWaveZDCOffsets", 8, 0
+"lSetOfWaveAFMemorizedPositionIDs", 8, -1
+"stSetOfWaveAFMemorizedPositionData", 8, ""
+"dbSetOfWaveOptiGridZPositions", 8, 0
+"stSetOfIllumination", 9, "[None]"
+"dbSetOfExposures", 9, 100
+"iSetOfExposureUnits", 9, 0
+"dbSetOfGains", 9, 0
+"dbSetOfIntensifierGains1", 9, 0
+"dbSetOfIntensifierGains2", 9, 0
+"dbSetOfFrames", 9, 1
+"iSetOfAutoExposes", 9, 2
+"iSetOfAXFrequencies", 9, 1
+"iSetOfCollections", 9, 1
+"iSetOfWFrequencies", 9, 1
+"uSetOfTargets", 9, 3000
+"iSetOfAlignX", 9, 0
+"iSetOfAlignY", 9, 0
+"iSetOfAutoFocus", 9, 1
+"iSetOfAFFrequencies", 9, 1
+"bSetOfWaveDoZ", 9, FALSE
+"iSetOfXPos", 9, 450
+"iSetOfYPos", 9, 450
+"iSetOfZoom", 9, 100
+"dSetOfContrast", 9, 50
+"dSetOfBrightness", 9, 50
+"iSetOfLutModel", 9, 8
+"dSetOfGammaR", 9, 1
+"dSetOfGammaG", 9, 1
+"dSetOfGammaB", 9, 1
+"dSetOfGammaMono", 9, 1
+"bSetOfAutoScale", 9, TRUE
+"dSetOfAutoScaleHi", 9, 0
+"dSetOfAutoScaleLo", 9, 0
+"uSetOfMinScale", 9, 0
+"uSetOfMaxScale", 9, 4096
+"bSetOfWaveDoStream", 9, FALSE
+"uiSetOfBinnings", 9, 1
+"uiSetOfTransferSpeeds", 9, 1
+"dbSetOfWaveZOffsets", 9, 0
+"dbSetOfWaveZDCOffsets", 9, 0
+"lSetOfWaveAFMemorizedPositionIDs", 9, -1
+"stSetOfWaveAFMemorizedPositionData", 9, ""
+"dbSetOfWaveOptiGridZPositions", 9, 0
+"stSetOfIllumination", 10, "[None]"
+"dbSetOfExposures", 10, 100
+"iSetOfExposureUnits", 10, 0
+"dbSetOfGains", 10, 0
+"dbSetOfIntensifierGains1", 10, 0
+"dbSetOfIntensifierGains2", 10, 0
+"dbSetOfFrames", 10, 1
+"iSetOfAutoExposes", 10, 2
+"iSetOfAXFrequencies", 10, 1
+"iSetOfCollections", 10, 1
+"iSetOfWFrequencies", 10, 1
+"uSetOfTargets", 10, 3000
+"iSetOfAlignX", 10, 0
+"iSetOfAlignY", 10, 0
+"iSetOfAutoFocus", 10, 1
+"iSetOfAFFrequencies", 10, 1
+"bSetOfWaveDoZ", 10, FALSE
+"iSetOfXPos", 10, 500
+"iSetOfYPos", 10, 500
+"iSetOfZoom", 10, 100
+"dSetOfContrast", 10, 50
+"dSetOfBrightness", 10, 50
+"iSetOfLutModel", 10, 8
+"dSetOfGammaR", 10, 1
+"dSetOfGammaG", 10, 1
+"dSetOfGammaB", 10, 1
+"dSetOfGammaMono", 10, 1
+"bSetOfAutoScale", 10, TRUE
+"dSetOfAutoScaleHi", 10, 0
+"dSetOfAutoScaleLo", 10, 0
+"uSetOfMinScale", 10, 0
+"uSetOfMaxScale", 10, 4096
+"bSetOfWaveDoStream", 10, FALSE
+"uiSetOfBinnings", 10, 1
+"uiSetOfTransferSpeeds", 10, 1
+"dbSetOfWaveZOffsets", 10, 0
+"dbSetOfWaveZDCOffsets", 10, 0
+"lSetOfWaveAFMemorizedPositionIDs", 10, -1
+"stSetOfWaveAFMemorizedPositionData", 10, ""
+"dbSetOfWaveOptiGridZPositions", 10, 0
+"bSeparateBinning", FALSE
+"bSeparateHardwareAFOffsets", FALSE
+"bDefaultDisplay", FALSE
+"bShowWavelengthImages", TRUE
+"bShowWavelengthCompositeImage", FALSE
+"bReviewAfterAcquisition", FALSE
+"bMinimizeImages", FALSE
+"stDescription", "Multi Dimensions Experiment"
+"stDataDir", "D:\MetaMorph\MDA_Writing_Dir(DoNotDelete)"
+"stDataFile", "TempDATA"
+"bIncrementFile", TRUE
+"bSaveSamplePositionsAsSeparate", FALSE
+"bDoStream", FALSE
+"bStreamTime", TRUE
+"bStreamZ", FALSE
+"bStreamWaves", FALSE
+"dpStreamExposure", 28
+"dpStreamGain", 0
+"dpStreamIntensifierGain1", 20
+"dpStreamIntensifierGain2", 20
+"nStreamFramesSkippedForZReset", 0
+"bStreamPreMoveZ", FALSE
+"iStreamToHardDisk", 2
+"lStreamStartFrame", 0
+"iStreamTriggerMode", 1
+"iStreamDualCamState", 1
+"iStreamCamState", 2
+"iStreamCamShutter", 1
+"iStreamCamClear", 1
+"stStreamProgramNameForAcquire", ""
+"bStreamPreview", FALSE
+"lStreamPreviewInterval", 1
+"nHBin", 1
+"nVBin", 1
+"nLiveBin", 1
+"nROIX", 0
+"nROIY", 0
+"nROIW", 512
+"nROIH", 512
+"xSnap", 107
+"ySnap", 54
+"nSnapZoom", 100
+"dSnapContrast", 50
+"dSnapBrightness", 50
+"iSnapLutModel", 8
+"dSnapGammaR", 1
+"dSnapGammaG", 1
+"dSnapGammaB", 1
+"dSnapGammaMono", 1
+"bSnapAutoScale", TRUE
+"dSnapAutoScaleHi", 0
+"dSnapAutoScaleLo", 0
+"uSnapMinScale", 104
+"uSnapMaxScale", 281
+"stLiveDisplayState", "0 0 1 0 2 0 3 65535 22 1 25 0 26 0 23 101 24 169 4 0 5 50 6 0 7 0 8 50 9 256 10 8 12 50 13 123 14 512 15 512 16 1 17 0 18 0 19 100 20 64 21 1"
+"xSnap2", 0
+"ySnap2", 0
+"nSnapZoom2", 100
+"dSnapContrast2", 50
+"dSnapBrightness2", 50
+"iSnapLutModel2", 8
+"dSnapGammaR2", 1
+"dSnapGammaG2", 1
+"dSnapGammaB2", 1
+"dSnapGammaMono2", 1
+"bDoJournal", TRUE
+"NumberOfJournals", 3
+"NDJournal", 1, "D:\MetaMorph\Journals\GETI_screening\Select Folder IK.JNL", 4, 11, 2, 0
+"NDJournal", 2, "D:\MetaMorph\Journals\GETI_screening\ref_autofocus_single.JNL", 4, 6, 2, 0
+"NDJournal", 3, "D:\MetaMorph\Journals\Focus - SaveList - OneShot.JNL", 4, 12, 1, 1
+"bUseAdvancedStageWaveParms", FALSE
+"bDisplayStageWaveParmsMultiline", TRUE
+"astStageWaveParms", 1, 1, ""
+"astStageWaveParms", 1, 2, ""
+"astStageWaveParms", 2, 1, ""
+"astStageWaveParms", 2, 2, ""
+"astStageWaveParms", 3, 1, ""
+"astStageWaveParms", 3, 2, ""
+"astStageWaveParms", 4, 1, ""
+"astStageWaveParms", 4, 2, ""
+"astStageWaveParms", 5, 1, ""
+"astStageWaveParms", 5, 2, ""
+"astStageWaveParms", 6, 1, ""
+"astStageWaveParms", 6, 2, ""
+"astStageWaveParms", 7, 1, ""
+"astStageWaveParms", 7, 2, ""
+"astStageWaveParms", 8, 1, ""
+"astStageWaveParms", 8, 2, ""
+"astStageWaveParms", 9, 1, ""
+"astStageWaveParms", 9, 2, ""
+"astStageWaveParms", 10, 1, ""
+"astStageWaveParms", 10, 2, ""
+"astStageWaveParms", 11, 1, ""
+"astStageWaveParms", 11, 2, ""
+"astStageWaveParms", 12, 1, ""
+"astStageWaveParms", 12, 2, ""
+"astStageWaveParms", 13, 1, ""
+"astStageWaveParms", 13, 2, ""
+"astStageWaveParms", 14, 1, ""
+"astStageWaveParms", 14, 2, ""
+"astStageWaveParms", 15, 1, ""
+"astStageWaveParms", 15, 2, ""
+"astStageWaveParms", 16, 1, ""
+"astStageWaveParms", 16, 2, ""
+"astStageWaveParms", 17, 1, ""
+"astStageWaveParms", 17, 2, ""
+"astStageWaveParms", 18, 1, ""
+"astStageWaveParms", 18, 2, ""
+"astStageWaveParms", 19, 1, ""
+"astStageWaveParms", 19, 2, ""
+"astStageWaveParms", 20, 1, ""
+"astStageWaveParms", 20, 2, ""
+"astStageWaveParms", 21, 1, ""
+"astStageWaveParms", 21, 2, ""
+"astStageWaveParms", 22, 1, ""
+"astStageWaveParms", 22, 2, ""
+"astStageWaveParms", 23, 1, ""
+"astStageWaveParms", 23, 2, ""
+"astStageWaveParms", 24, 1, ""
+"astStageWaveParms", 24, 2, ""
+"astStageWaveParms", 25, 1, ""
+"astStageWaveParms", 25, 2, ""
+"astStageWaveParms", 26, 1, ""
+"astStageWaveParms", 26, 2, ""
+"astStageWaveParms", 27, 1, ""
+"astStageWaveParms", 27, 2, ""
+"astStageWaveParms", 28, 1, ""
+"astStageWaveParms", 28, 2, ""
+"astStageWaveParms", 29, 1, ""
+"astStageWaveParms", 29, 2, ""
+"astStageWaveParms", 30, 1, ""
+"astStageWaveParms", 30, 2, ""
+"astStageWaveParms", 31, 1, ""
+"astStageWaveParms", 31, 2, ""
+"astStageWaveParms", 32, 1, ""
+"astStageWaveParms", 32, 2, ""
+"astStageWaveParms", 33, 1, ""
+"astStageWaveParms", 33, 2, ""
+"astStageWaveParms", 34, 1, ""
+"astStageWaveParms", 34, 2, ""
+"astStageWaveParms", 35, 1, ""
+"astStageWaveParms", 35, 2, ""
+"astStageWaveParms", 36, 1, ""
+"astStageWaveParms", 36, 2, ""
+"astStageWaveParms", 37, 1, ""
+"astStageWaveParms", 37, 2, ""
+"astStageWaveParms", 38, 1, ""
+"astStageWaveParms", 38, 2, ""
+"astStageWaveParms", 39, 1, ""
+"astStageWaveParms", 39, 2, ""
+"astStageWaveParms", 40, 1, ""
+"astStageWaveParms", 40, 2, ""
+"astStageWaveParms", 41, 1, ""
+"astStageWaveParms", 41, 2, ""
+"astStageWaveParms", 42, 1, ""
+"astStageWaveParms", 42, 2, ""
+"astStageWaveParms", 43, 1, ""
+"astStageWaveParms", 43, 2, ""
+"astStageWaveParms", 44, 1, ""
+"astStageWaveParms", 44, 2, ""
+"astStageWaveParms", 45, 1, ""
+"astStageWaveParms", 45, 2, ""
+"astStageWaveParms", 46, 1, ""
+"astStageWaveParms", 46, 2, ""
+"astStageWaveParms", 47, 1, ""
+"astStageWaveParms", 47, 2, ""
+"astStageWaveParms", 48, 1, ""
+"astStageWaveParms", 48, 2, ""
+"astStageWaveParms", 49, 1, ""
+"astStageWaveParms", 49, 2, ""
+"astStageWaveParms", 50, 1, ""
+"astStageWaveParms", 50, 2, ""
+"astStageWaveParms", 51, 1, ""
+"astStageWaveParms", 51, 2, ""
+"astStageWaveParms", 52, 1, ""
+"astStageWaveParms", 52, 2, ""
+"astStageWaveParms", 53, 1, ""
+"astStageWaveParms", 53, 2, ""
+"astStageWaveParms", 54, 1, ""
+"astStageWaveParms", 54, 2, ""
+"astStageWaveParms", 55, 1, ""
+"astStageWaveParms", 55, 2, ""
+"astStageWaveParms", 56, 1, ""
+"astStageWaveParms", 56, 2, ""
+"astStageWaveParms", 57, 1, ""
+"astStageWaveParms", 57, 2, ""
+"astStageWaveParms", 58, 1, ""
+"astStageWaveParms", 58, 2, ""
+"astStageWaveParms", 59, 1, ""
+"astStageWaveParms", 59, 2, ""
+"astStageWaveParms", 60, 1, ""
+"astStageWaveParms", 60, 2, ""
+"astStageWaveParms", 61, 1, ""
+"astStageWaveParms", 61, 2, ""
+"astStageWaveParms", 62, 1, ""
+"astStageWaveParms", 62, 2, ""
+"astStageWaveParms", 63, 1, ""
+"astStageWaveParms", 63, 2, ""
+"astStageWaveParms", 64, 1, ""
+"astStageWaveParms", 64, 2, ""
+"astStageWaveParms", 65, 1, ""
+"astStageWaveParms", 65, 2, ""
+"astStageWaveParms", 66, 1, ""
+"astStageWaveParms", 66, 2, ""
+"astStageWaveParms", 67, 1, ""
+"astStageWaveParms", 67, 2, ""
+"astStageWaveParms", 68, 1, ""
+"astStageWaveParms", 68, 2, ""
+"astStageWaveParms", 69, 1, ""
+"astStageWaveParms", 69, 2, ""
+"astStageWaveParms", 70, 1, ""
+"astStageWaveParms", 70, 2, ""
+"astStageWaveParms", 71, 1, ""
+"astStageWaveParms", 71, 2, ""
+"astStageWaveParms", 72, 1, ""
+"astStageWaveParms", 72, 2, ""
+"astStageWaveParms", 73, 1, ""
+"astStageWaveParms", 73, 2, ""
+"astStageWaveParms", 74, 1, ""
+"astStageWaveParms", 74, 2, ""
+"astStageWaveParms", 75, 1, ""
+"astStageWaveParms", 75, 2, ""
+"astStageWaveParms", 76, 1, ""
+"astStageWaveParms", 76, 2, ""
+"astStageWaveParms", 77, 1, ""
+"astStageWaveParms", 77, 2, ""
+"astStageWaveParms", 78, 1, ""
+"astStageWaveParms", 78, 2, ""
+"astStageWaveParms", 79, 1, ""
+"astStageWaveParms", 79, 2, ""
+"astStageWaveParms", 80, 1, ""
+"astStageWaveParms", 80, 2, ""
+"astStageWaveParms", 81, 1, ""
+"astStageWaveParms", 81, 2, ""
+"astStageWaveParms", 82, 1, ""
+"astStageWaveParms", 82, 2, ""
+"astStageWaveParms", 83, 1, ""
+"astStageWaveParms", 83, 2, ""
+"astStageWaveParms", 84, 1, ""
+"astStageWaveParms", 84, 2, ""
+"astStageWaveParms", 85, 1, ""
+"astStageWaveParms", 85, 2, ""
+"astStageWaveParms", 86, 1, ""
+"astStageWaveParms", 86, 2, ""
+"astStageWaveParms", 87, 1, ""
+"astStageWaveParms", 87, 2, ""
+"astStageWaveParms", 88, 1, ""
+"astStageWaveParms", 88, 2, ""
+"astStageWaveParms", 89, 1, ""
+"astStageWaveParms", 89, 2, ""
+"astStageWaveParms", 90, 1, ""
+"astStageWaveParms", 90, 2, ""
+"astStageWaveParms", 91, 1, ""
+"astStageWaveParms", 91, 2, ""
+"astStageWaveParms", 92, 1, ""
+"astStageWaveParms", 92, 2, ""
+"astStageWaveParms", 93, 1, ""
+"astStageWaveParms", 93, 2, ""
+"astStageWaveParms", 94, 1, ""
+"astStageWaveParms", 94, 2, ""
+"astStageWaveParms", 95, 1, ""
+"astStageWaveParms", 95, 2, ""
+"astStageWaveParms", 96, 1, ""
+"astStageWaveParms", 96, 2, ""
+"astStageWaveParms", 97, 1, ""
+"astStageWaveParms", 97, 2, ""
+"astStageWaveParms", 98, 1, ""
+"astStageWaveParms", 98, 2, ""
+"astStageWaveParms", 99, 1, ""
+"astStageWaveParms", 99, 2, ""
+"astStageWaveParms", 100, 1, ""
+"astStageWaveParms", 100, 2, ""
+"astStageWaveParms", 101, 1, ""
+"astStageWaveParms", 101, 2, ""
+"astStageWaveParms", 102, 1, ""
+"astStageWaveParms", 102, 2, ""
+"astStageWaveParms", 103, 1, ""
+"astStageWaveParms", 103, 2, ""
+"astStageWaveParms", 104, 1, ""
+"astStageWaveParms", 104, 2, ""
+"astStageWaveParms", 105, 1, ""
+"astStageWaveParms", 105, 2, ""
+"astStageWaveParms", 106, 1, ""
+"astStageWaveParms", 106, 2, ""
+"astStageWaveParms", 107, 1, ""
+"astStageWaveParms", 107, 2, ""
+"astStageWaveParms", 108, 1, ""
+"astStageWaveParms", 108, 2, ""
+"astStageWaveParms", 109, 1, ""
+"astStageWaveParms", 109, 2, ""
+"astStageWaveParms", 110, 1, ""
+"astStageWaveParms", 110, 2, ""
+"astStageWaveParms", 111, 1, ""
+"astStageWaveParms", 111, 2, ""
+"astStageWaveParms", 112, 1, ""
+"astStageWaveParms", 112, 2, ""
+"astStageWaveParms", 113, 1, ""
+"astStageWaveParms", 113, 2, ""
+"astStageWaveParms", 114, 1, ""
+"astStageWaveParms", 114, 2, ""
+"astStageWaveParms", 115, 1, ""
+"astStageWaveParms", 115, 2, ""
+"astStageWaveParms", 116, 1, ""
+"astStageWaveParms", 116, 2, ""
+"astStageWaveParms", 117, 1, ""
+"astStageWaveParms", 117, 2, ""
+"astStageWaveParms", 118, 1, ""
+"astStageWaveParms", 118, 2, ""
+"astStageWaveParms", 119, 1, ""
+"astStageWaveParms", 119, 2, ""
+"astStageWaveParms", 120, 1, ""
+"astStageWaveParms", 120, 2, ""
+"astStageWaveParms", 121, 1, ""
+"astStageWaveParms", 121, 2, ""
+"astStageWaveParms", 122, 1, ""
+"astStageWaveParms", 122, 2, ""
+"astStageWaveParms", 123, 1, ""
+"astStageWaveParms", 123, 2, ""
+"astStageWaveParms", 124, 1, ""
+"astStageWaveParms", 124, 2, ""
+"astStageWaveParms", 125, 1, ""
+"astStageWaveParms", 125, 2, ""
+"astStageWaveParms", 126, 1, ""
+"astStageWaveParms", 126, 2, ""
+"astStageWaveParms", 127, 1, ""
+"astStageWaveParms", 127, 2, ""
+"astStageWaveParms", 128, 1, ""
+"astStageWaveParms", 128, 2, ""
+"astStageWaveParms", 129, 1, ""
+"astStageWaveParms", 129, 2, ""
+"astStageWaveParms", 130, 1, ""
+"astStageWaveParms", 130, 2, ""
+"astStageWaveParms", 131, 1, ""
+"astStageWaveParms", 131, 2, ""
+"astStageWaveParms", 132, 1, ""
+"astStageWaveParms", 132, 2, ""
+"astStageWaveParms", 133, 1, ""
+"astStageWaveParms", 133, 2, ""
+"astStageWaveParms", 134, 1, ""
+"astStageWaveParms", 134, 2, ""
+"astStageWaveParms", 135, 1, ""
+"astStageWaveParms", 135, 2, ""
+"astStageWaveParms", 136, 1, ""
+"astStageWaveParms", 136, 2, ""
+"astStageWaveParms", 137, 1, ""
+"astStageWaveParms", 137, 2, ""
+"astStageWaveParms", 138, 1, ""
+"astStageWaveParms", 138, 2, ""
+"astStageWaveParms", 139, 1, ""
+"astStageWaveParms", 139, 2, ""
+"astStageWaveParms", 140, 1, ""
+"astStageWaveParms", 140, 2, ""
+"astStageWaveParms", 141, 1, ""
+"astStageWaveParms", 141, 2, ""
+"astStageWaveParms", 142, 1, ""
+"astStageWaveParms", 142, 2, ""
+"astStageWaveParms", 143, 1, ""
+"astStageWaveParms", 143, 2, ""
+"astStageWaveParms", 144, 1, ""
+"astStageWaveParms", 144, 2, ""
+"astStageWaveParms", 145, 1, ""
+"astStageWaveParms", 145, 2, ""
+"astStageWaveParms", 146, 1, ""
+"astStageWaveParms", 146, 2, ""
+"astStageWaveParms", 147, 1, ""
+"astStageWaveParms", 147, 2, ""
+"astStageWaveParms", 148, 1, ""
+"astStageWaveParms", 148, 2, ""
+"astStageWaveParms", 149, 1, ""
+"astStageWaveParms", 149, 2, ""
+"astStageWaveParms", 150, 1, ""
+"astStageWaveParms", 150, 2, ""
+"astStageWaveParms", 151, 1, ""
+"astStageWaveParms", 151, 2, ""
+"astStageWaveParms", 152, 1, ""
+"astStageWaveParms", 152, 2, ""
+"astStageWaveParms", 153, 1, ""
+"astStageWaveParms", 153, 2, ""
+"astStageWaveParms", 154, 1, ""
+"astStageWaveParms", 154, 2, ""
+"astStageWaveParms", 155, 1, ""
+"astStageWaveParms", 155, 2, ""
+"astStageWaveParms", 156, 1, ""
+"astStageWaveParms", 156, 2, ""
+"astStageWaveParms", 157, 1, ""
+"astStageWaveParms", 157, 2, ""
+"astStageWaveParms", 158, 1, ""
+"astStageWaveParms", 158, 2, ""
+"astStageWaveParms", 159, 1, ""
+"astStageWaveParms", 159, 2, ""
+"astStageWaveParms", 160, 1, ""
+"astStageWaveParms", 160, 2, ""
+"astStageWaveParms", 161, 1, ""
+"astStageWaveParms", 161, 2, ""
+"astStageWaveParms", 162, 1, ""
+"astStageWaveParms", 162, 2, ""
+"astStageWaveParms", 163, 1, ""
+"astStageWaveParms", 163, 2, ""
+"astStageWaveParms", 164, 1, ""
+"astStageWaveParms", 164, 2, ""
+"astStageWaveParms", 165, 1, ""
+"astStageWaveParms", 165, 2, ""
+"astStageWaveParms", 166, 1, ""
+"astStageWaveParms", 166, 2, ""
+"astStageWaveParms", 167, 1, ""
+"astStageWaveParms", 167, 2, ""
+"astStageWaveParms", 168, 1, ""
+"astStageWaveParms", 168, 2, ""
+"astStageWaveParms", 169, 1, ""
+"astStageWaveParms", 169, 2, ""
+"astStageWaveParms", 170, 1, ""
+"astStageWaveParms", 170, 2, ""
+"astStageWaveParms", 171, 1, ""
+"astStageWaveParms", 171, 2, ""
+"astStageWaveParms", 172, 1, ""
+"astStageWaveParms", 172, 2, ""
+"astStageWaveParms", 173, 1, ""
+"astStageWaveParms", 173, 2, ""
+"astStageWaveParms", 174, 1, ""
+"astStageWaveParms", 174, 2, ""
+"astStageWaveParms", 175, 1, ""
+"astStageWaveParms", 175, 2, ""
+"astStageWaveParms", 176, 1, ""
+"astStageWaveParms", 176, 2, ""
+"astStageWaveParms", 177, 1, ""
+"astStageWaveParms", 177, 2, ""
+"astStageWaveParms", 178, 1, ""
+"astStageWaveParms", 178, 2, ""
+"astStageWaveParms", 179, 1, ""
+"astStageWaveParms", 179, 2, ""
+"astStageWaveParms", 180, 1, ""
+"astStageWaveParms", 180, 2, ""
+"astStageWaveParms", 181, 1, ""
+"astStageWaveParms", 181, 2, ""
+"astStageWaveParms", 182, 1, ""
+"astStageWaveParms", 182, 2, ""
+"astStageWaveParms", 183, 1, ""
+"astStageWaveParms", 183, 2, ""
+"astStageWaveParms", 184, 1, ""
+"astStageWaveParms", 184, 2, ""
+"astStageWaveParms", 185, 1, ""
+"astStageWaveParms", 185, 2, ""
+"astStageWaveParms", 186, 1, ""
+"astStageWaveParms", 186, 2, ""
+"astStageWaveParms", 187, 1, ""
+"astStageWaveParms", 187, 2, ""
+"astStageWaveParms", 188, 1, ""
+"astStageWaveParms", 188, 2, ""
+"astStageWaveParms", 189, 1, ""
+"astStageWaveParms", 189, 2, ""
+"astStageWaveParms", 190, 1, ""
+"astStageWaveParms", 190, 2, ""
+"astStageWaveParms", 191, 1, ""
+"astStageWaveParms", 191, 2, ""
+"astStageWaveParms", 192, 1, ""
+"astStageWaveParms", 192, 2, ""
+"astStageWaveParms", 193, 1, ""
+"astStageWaveParms", 193, 2, ""
+"astStageWaveParms", 194, 1, ""
+"astStageWaveParms", 194, 2, ""
+"astStageWaveParms", 195, 1, ""
+"astStageWaveParms", 195, 2, ""
+"astStageWaveParms", 196, 1, ""
+"astStageWaveParms", 196, 2, ""
+"astStageWaveParms", 197, 1, ""
+"astStageWaveParms", 197, 2, ""
+"astStageWaveParms", 198, 1, ""
+"astStageWaveParms", 198, 2, ""
+"astStageWaveParms", 199, 1, ""
+"astStageWaveParms", 199, 2, ""
+"astStageWaveParms", 200, 1, ""
+"astStageWaveParms", 200, 2, ""
+"astStageWaveParms", 201, 1, ""
+"astStageWaveParms", 201, 2, ""
+"astStageWaveParms", 202, 1, ""
+"astStageWaveParms", 202, 2, ""
+"astStageWaveParms", 203, 1, ""
+"astStageWaveParms", 203, 2, ""
+"astStageWaveParms", 204, 1, ""
+"astStageWaveParms", 204, 2, ""
+"astStageWaveParms", 205, 1, ""
+"astStageWaveParms", 205, 2, ""
+"astStageWaveParms", 206, 1, ""
+"astStageWaveParms", 206, 2, ""
+"astStageWaveParms", 207, 1, ""
+"astStageWaveParms", 207, 2, ""
+"astStageWaveParms", 208, 1, ""
+"astStageWaveParms", 208, 2, ""
+"astStageWaveParms", 209, 1, ""
+"astStageWaveParms", 209, 2, ""
+"astStageWaveParms", 210, 1, ""
+"astStageWaveParms", 210, 2, ""
+"astStageWaveParms", 211, 1, ""
+"astStageWaveParms", 211, 2, ""
+"astStageWaveParms", 212, 1, ""
+"astStageWaveParms", 212, 2, ""
+"astStageWaveParms", 213, 1, ""
+"astStageWaveParms", 213, 2, ""
+"astStageWaveParms", 214, 1, ""
+"astStageWaveParms", 214, 2, ""
+"astStageWaveParms", 215, 1, ""
+"astStageWaveParms", 215, 2, ""
+"astStageWaveParms", 216, 1, ""
+"astStageWaveParms", 216, 2, ""
+"astStageWaveParms", 217, 1, ""
+"astStageWaveParms", 217, 2, ""
+"astStageWaveParms", 218, 1, ""
+"astStageWaveParms", 218, 2, ""
+"astStageWaveParms", 219, 1, ""
+"astStageWaveParms", 219, 2, ""
+"astStageWaveParms", 220, 1, ""
+"astStageWaveParms", 220, 2, ""
+"astStageWaveParms", 221, 1, ""
+"astStageWaveParms", 221, 2, ""
+"astStageWaveParms", 222, 1, ""
+"astStageWaveParms", 222, 2, ""
+"astStageWaveParms", 223, 1, ""
+"astStageWaveParms", 223, 2, ""
+"astStageWaveParms", 224, 1, ""
+"astStageWaveParms", 224, 2, ""
+"astStageWaveParms", 225, 1, ""
+"astStageWaveParms", 225, 2, ""
+"astStageWaveParms", 226, 1, ""
+"astStageWaveParms", 226, 2, ""
+"astStageWaveParms", 227, 1, ""
+"astStageWaveParms", 227, 2, ""
+"EndFile"
