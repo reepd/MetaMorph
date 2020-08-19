@@ -1,12 +1,12 @@
 Version 2
 Title New Taskbar
-Rows 12
+Rows 15
 Columns 1
 ButtonWidth 24
 DisplayKeybindings 0
 ProductId 50
-X 1143
-Y 33
+X 1116
+Y 12
 Button Journal
 Label Actuator Up
 Journal D:\MetaMorph\Journals\Actuator Up.JNL
@@ -37,3 +37,10 @@ Button Unbound
 Button Journal
 Label GECI Main Acquisition
 Journal D:\MetaMorph\Journals\96well-GFP-Andor-10sec.JNL
+Button Unbound
+Button Journal
+Label iGABA Software Focus
+Journal D:\GitHub\MetaMorph\Rig-1\GETI-Screen\softwareFocus.JNL
+Button Journal
+Label iGABASnFR Main
+Journal D:\GITHUB\METAMORPH\RIG-1\GETI-SCREEN\timeseries_main.jnl

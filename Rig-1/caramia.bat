@@ -1,0 +1,1 @@
+"C:\Program Files\VideoLAN\VLC\vlc.exe" --qt-start-minimized --play-and-exit "D:\GitHub\MetaMorph\Rig-1\Portal2-12-Cara_Mia_Addio_RT.m4a"

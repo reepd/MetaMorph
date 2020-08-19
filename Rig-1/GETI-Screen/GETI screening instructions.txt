@@ -1,0 +1,12 @@
+1. Launch Metamorph, and 2 instances of MATLAB 2018a
+
+2. In one MATLAB instance, launch wavesurfer. Open workspace C:\Users\GECI\Documents\WaveSurfer-0.981\iGABAsnfr_screening.wsp
+	* Make sure the Stimulation source is set to: "seq_10_40"
+
+3. In Wavesurfer, set right number of sweeps (160 for 80 wells), set right folder and plate name and click record.
+
+4. Start the journal D:\MetaMorph\Journals\GETI_screening\timeseries_main.jnl
+
+5. In the other MATLAB instance (the one that was not used for Wavesurfer, run the script: live_analyze_plate(DIR) where DIR is the directory of the data coming in, e.g. live_analyze_plate('D:\MetaMorph\Data\today\ilya\testRun')
+
+Make sure as data is coming in, it is being plotted in the MATLAB window
