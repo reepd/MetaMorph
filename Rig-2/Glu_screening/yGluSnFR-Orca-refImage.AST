@@ -9,12 +9,12 @@
 "sACQSequenceType", "TIFF"
 "nACQSeqOverwrite", 1
 "nACQLiveBinning", 1
-"dACQExpose", 1000
-"dACQExpose2", 1000
+"dACQExpose", 100
+"dACQExpose2", 100
 "nACQExpUnits", 1
 "nACQBinning", 1
 "sACQImage", "Acquired"
-"uACQTarget", -15075
+"uACQTarget", -14026
 "dACQMaxExpose", 1
 "nACQMaxUnits", 2
 "dACQIncExpose", 10
@@ -106,7 +106,7 @@
 "bACQBlackoutMode", FALSE
 "bACQBlackRefModeEnable", FALSE
 "bACQTrigger", FALSE
-"nACQTriggerMode", 1
+"nACQTriggerMode", 2
 "nACQTriggerTimes", 1
 "nACQBncOutput", 3
 "dpACQOutputTriggerDelay", 0
