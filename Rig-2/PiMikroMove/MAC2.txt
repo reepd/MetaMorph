@@ -1,0 +1,7 @@
+WAC DIO? 1 = 1 
+WAC DIO? 2 = 0 
+DIO 4 0 
+MOV 1 18
+WAC ONT? 1 = 1 
+DIO 3 1 
+MAC START MAC3

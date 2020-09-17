@@ -5,8 +5,8 @@ Columns 1
 ButtonWidth 23
 DisplayKeybindings 0
 ProductId 50
-X 1151
-Y 108
+X 1153
+Y 15
 Button Journal
 Label ActuatorUP
 Journal E:\Metamorph\Journals\ActuatorUP.JNL
@@ -43,7 +43,7 @@ Journal E:\METAMORPH\JOURNALS\GECI_SCREENING\GECI Main.JNL
 Button Unbound
 Button Journal
 Label Glu Find Focus C6
-Journal E:\Metamorph\Journals\findFocusOffset_C6_Glu.JNL
+Journal E:\GITHUB\METAMORPH\RIG-2\findFocusOffset_C6_Glu.JNL
 Button Journal
 Label Glu Main
 Journal E:\GitHub\MetaMorph\Rig-2\Glu_screening\timeseries_main.jnl
