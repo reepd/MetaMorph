@@ -19,7 +19,7 @@ Label calibration
 Journal E:\METAMORPH\JOURNALS\DR\calibration_rig2.jnl
 Button Journal
 Label move to center
-Journal E:\Metamorph\Journals\moveToCenter.JNL
+Journal E:\GITHUB\METAMORPH\RIG-2\moveToCenter.JNL
 Button Unbound
 Button Journal
 Label Find Focus C6
@@ -28,7 +28,7 @@ Button Unbound
 Button Unbound
 Button Journal
 Label GETI Main
-Journal E:\METAMORPH\JOURNALS\GETI_SCREENING\timeseries_main.jnl
+Journal E:\GITHUB\METAMORPH\RIG-2\GABA_SCREENING\timeseries_main.jnl
 Button Unbound
 Button Journal
 Label GEVI Refs
