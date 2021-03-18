@@ -1,6 +1,6 @@
 Version 2
 Title sb taskbar
-Rows 19
+Rows 21
 Columns 1
 ButtonWidth 23
 DisplayKeybindings 0
@@ -50,3 +50,7 @@ Journal E:\GitHub\MetaMorph\Rig-2\Glu_screening\timeseries_main.jnl
 Button Journal
 Label Glu Software Focus
 Journal E:\GitHub\MetaMorph\Rig-2\Glu_screening\softwareFocus.JNL
+Button Unbound
+Button Journal
+Label minis-standalone-acquire
+Journal E:\GitHub\MetaMorph\Rig-2\Glu_screening\minis_40x_100Hz_30s\minis-standalone-acquire.JNL

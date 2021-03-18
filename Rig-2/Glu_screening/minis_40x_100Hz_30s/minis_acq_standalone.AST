@@ -5,7 +5,7 @@
 "nACQOptiGridMode", 1
 "bACQEnableFastLiveMode", FALSE
 "sACQSequenceBase", "GCaMP00001"
-"sACQSequenceDir", "D:\MetaMorph\GECI\Plate0001"
+"sACQSequenceDir", "E:\_dataToday\20210316_GluSnFR_minis_raw\P1a-20210301_GluSnFR_minis"
 "sACQSequenceType", "TIFF"
 "nACQSeqOverwrite", 1
 "nACQLiveBinning", 4
@@ -14,7 +14,7 @@
 "nACQExpUnits", 1
 "nACQBinning", 4
 "sACQImage", "Acquired"
-"uACQTarget", -16384
+"uACQTarget", -12584
 "dACQMaxExpose", 10
 "nACQMaxUnits", 2
 "dACQIncExpose", 10
@@ -22,9 +22,9 @@
 "bACQUseSettingForName", TRUE
 "sACQShutter", "[Current Shutter]"
 "dACQPctLo", 0
-"dACQPctHi", 0
-"uACQScaleLo", 1501
-"uACQScaleHi", 1729
+"dACQPctHi", 0.0057
+"uACQScaleLo", 1545
+"uACQScaleHi", 2010
 "bACQScaleAuto", TRUE
 "bACQScaleRegion", TRUE
 "bACQXfer8Bit", FALSE
@@ -32,7 +32,7 @@
 "bDisplaySaturationMarkers", FALSE
 "dACQContrast", 50
 "dACQBrightness", 50
-"nACQZoom", 120
+"nACQZoom", 100
 "iACQLutModel", 8
 "nACQBSub", 1
 "uACQBSubConstant", 0
@@ -65,7 +65,7 @@
 "sACQAnnotation", ""
 "nACQSensorMode", 1
 "nACQReadoutDirection", 1
-"nACQDigitizer", 2
+"nACQDigitizer", 3
 "nACQGainType", 1
 "nACQGain", 1
 "nACQGain2", 2
