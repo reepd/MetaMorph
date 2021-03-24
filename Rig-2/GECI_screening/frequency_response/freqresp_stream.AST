@@ -8,11 +8,11 @@
 "sACQSequenceDir", "E:\_dataToday\hcimage\20200827_ruler"
 "sACQSequenceType", "TIFF"
 "nACQSeqOverwrite", 1
-"nACQLiveBinning", 1
-"dACQExpose", 100
-"dACQExpose2", 100
+"nACQLiveBinning", 4
+"dACQExpose", 2.5
+"dACQExpose2", 2.5
 "nACQExpUnits", 1
-"nACQBinning", 1
+"nACQBinning", 4
 "sACQImage", "Acquired"
 "uACQTarget", -14288
 "dACQMaxExpose", 1
@@ -23,16 +23,16 @@
 "sACQShutter", "[Current Shutter]"
 "dACQPctLo", 0
 "dACQPctHi", 0
-"uACQScaleLo", 77
-"uACQScaleHi", 709
-"bACQScaleAuto", FALSE
+"uACQScaleLo", 1467
+"uACQScaleHi", 1973
+"bACQScaleAuto", TRUE
 "bACQScaleRegion", TRUE
 "bACQXfer8Bit", FALSE
 "dACQGamma", 1
 "bDisplaySaturationMarkers", FALSE
 "dACQContrast", 50
 "dACQBrightness", 50
-"nACQZoom", 40
+"nACQZoom", 100
 "iACQLutModel", 8
 "nACQBSub", 1
 "uACQBSubConstant", 0
@@ -126,7 +126,7 @@
 "nACQRoiX", 0
 "nACQRoiY", 0
 "nACQRoiW", 2304
-"nACQRoiH", 2304
+"nACQRoiH", 506
 "dExposureRedX", 1
 "dExposureGreenX", 1
 "dExposureBlueX", 1
@@ -190,7 +190,7 @@
 "cACQLiveCapFramesAfter", 315
 "bACQPhotoNegativeMode", FALSE
 "nACQQuantization", 256
-"bACQVirtualChipEnable", FALSE
-"dpACQVirtualChipWidth", 50
-"dpACQVirtualChipHeight", 50
+"bACQVirtualChipEnable", TRUE
+"dpACQVirtualChipWidth", 100
+"dpACQVirtualChipHeight", 21.9618
 "EndFile"

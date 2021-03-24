@@ -14,7 +14,7 @@
 "nACQExpUnits", 1
 "nACQBinning", 1
 "sACQImage", "Acquired"
-"uACQTarget", -14288
+"uACQTarget", -16384
 "dACQMaxExpose", 1
 "nACQMaxUnits", 2
 "dACQIncExpose", 10
@@ -23,16 +23,16 @@
 "sACQShutter", "[Current Shutter]"
 "dACQPctLo", 0
 "dACQPctHi", 0
-"uACQScaleLo", 77
-"uACQScaleHi", 709
-"bACQScaleAuto", FALSE
+"uACQScaleLo", 89
+"uACQScaleHi", 399
+"bACQScaleAuto", TRUE
 "bACQScaleRegion", TRUE
 "bACQXfer8Bit", FALSE
 "dACQGamma", 1
 "bDisplaySaturationMarkers", FALSE
 "dACQContrast", 50
 "dACQBrightness", 50
-"nACQZoom", 40
+"nACQZoom", 35
 "iACQLutModel", 8
 "nACQBSub", 1
 "uACQBSubConstant", 0
@@ -65,7 +65,7 @@
 "sACQAnnotation", ""
 "nACQSensorMode", 1
 "nACQReadoutDirection", 1
-"nACQDigitizer", 3
+"nACQDigitizer", 2
 "nACQGainType", 1
 "nACQGain", 1
 "nACQGain2", 2
@@ -126,7 +126,7 @@
 "nACQRoiX", 0
 "nACQRoiY", 0
 "nACQRoiW", 2304
-"nACQRoiH", 2304
+"nACQRoiH", 506
 "dExposureRedX", 1
 "dExposureGreenX", 1
 "dExposureBlueX", 1
@@ -190,7 +190,7 @@
 "cACQLiveCapFramesAfter", 315
 "bACQPhotoNegativeMode", FALSE
 "nACQQuantization", 256
-"bACQVirtualChipEnable", FALSE
-"dpACQVirtualChipWidth", 50
-"dpACQVirtualChipHeight", 50
+"bACQVirtualChipEnable", TRUE
+"dpACQVirtualChipWidth", 100
+"dpACQVirtualChipHeight", 21.9618
 "EndFile"
