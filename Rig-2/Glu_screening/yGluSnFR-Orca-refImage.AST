@@ -23,8 +23,8 @@
 "sACQShutter", "[Current Shutter]"
 "dACQPctLo", 0
 "dACQPctHi", 0
-"uACQScaleLo", 68
-"uACQScaleHi", 136
+"uACQScaleLo", 52
+"uACQScaleHi", 586
 "bACQScaleAuto", TRUE
 "bACQScaleRegion", TRUE
 "bACQXfer8Bit", FALSE
@@ -32,7 +32,7 @@
 "bDisplaySaturationMarkers", FALSE
 "dACQContrast", 50
 "dACQBrightness", 50
-"nACQZoom", 100
+"nACQZoom", 40
 "iACQLutModel", 8
 "nACQBSub", 1
 "uACQBSubConstant", 0
@@ -123,10 +123,10 @@
 "dpACQPacketSizePercentage", 100
 "nACQLiveTriggerMode", 1
 "idxShowDigital4", 1
-"nACQRoiX", 576
-"nACQRoiY", 576
-"nACQRoiW", 1152
-"nACQRoiH", 1152
+"nACQRoiX", 0
+"nACQRoiY", 0
+"nACQRoiW", 2304
+"nACQRoiH", 2304
 "dExposureRedX", 1
 "dExposureGreenX", 1
 "dExposureBlueX", 1
@@ -191,6 +191,6 @@
 "bACQPhotoNegativeMode", FALSE
 "nACQQuantization", 256
 "bACQVirtualChipEnable", FALSE
-"dpACQVirtualChipWidth", 50
-"dpACQVirtualChipHeight", 50
+"dpACQVirtualChipWidth", 100
+"dpACQVirtualChipHeight", 21.9618
 "EndFile"
