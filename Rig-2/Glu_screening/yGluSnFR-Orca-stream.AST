@@ -14,7 +14,7 @@
 "nACQExpUnits", 1
 "nACQBinning", 1
 "sACQImage", "Acquired"
-"uACQTarget", -13371
+"uACQTarget", -15599
 "dACQMaxExpose", 10
 "nACQMaxUnits", 2
 "dACQIncExpose", 10
@@ -23,8 +23,8 @@
 "sACQShutter", "[Current Shutter]"
 "dACQPctLo", 0
 "dACQPctHi", 0.0057
-"uACQScaleLo", 53
-"uACQScaleHi", 136
+"uACQScaleLo", 50
+"uACQScaleHi", 133
 "bACQScaleAuto", TRUE
 "bACQScaleRegion", TRUE
 "bACQXfer8Bit", FALSE
@@ -191,6 +191,6 @@
 "bACQPhotoNegativeMode", FALSE
 "nACQQuantization", 256
 "bACQVirtualChipEnable", FALSE
-"dpACQVirtualChipWidth", 50
-"dpACQVirtualChipHeight", 50
+"dpACQVirtualChipWidth", 100
+"dpACQVirtualChipHeight", 21.9618
 "EndFile"
