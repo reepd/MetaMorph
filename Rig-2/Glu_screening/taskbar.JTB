@@ -1,6 +1,6 @@
 Version 2
 Title sb taskbar
-Rows 23
+Rows 25
 Columns 1
 ButtonWidth 23
 DisplayKeybindings 0
@@ -52,9 +52,11 @@ Label Glu Software Focus
 Journal E:\GitHub\MetaMorph\Rig-2\Glu_screening\softwareFocus.JNL
 Button Unbound
 Button Journal
-Label minis-standalone-acquire
-Journal E:\GitHub\MetaMorph\Rig-2\Glu_screening\minis_40x_100Hz_30s\minis-standalone-acquire.JNL
+Label Axonal Silencing
+Journal E:\GitHub\MetaMorph\Rig-2\Glu_screening\Axonal_Silencing\AxSi-timeseries_main.JNL
 Button Unbound
 Button Journal
 Label frequency response main
 Journal E:\GitHub\MetaMorph\Rig-2\GECI_screening\frequency_response\freqresp_main.JNL
+Button Unbound
+Button Unbound
