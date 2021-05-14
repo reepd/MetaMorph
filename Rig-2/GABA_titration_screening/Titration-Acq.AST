@@ -8,13 +8,13 @@
 "sACQSequenceDir", "E:\_dataToday\hcimage\20200827_ruler"
 "sACQSequenceType", "TIFF"
 "nACQSeqOverwrite", 1
-"nACQLiveBinning", 2
-"dACQExpose", 1
-"dACQExpose2", 1
+"nACQLiveBinning", 1
+"dACQExpose", 100
+"dACQExpose2", 100
 "nACQExpUnits", 1
-"nACQBinning", 2
+"nACQBinning", 1
 "sACQImage", "Acquired"
-"uACQTarget", -15599
+"uACQTarget", -16384
 "dACQMaxExpose", 1
 "nACQMaxUnits", 2
 "dACQIncExpose", 10
@@ -23,8 +23,8 @@
 "sACQShutter", "[Current Shutter]"
 "dACQPctLo", 0
 "dACQPctHi", 0
-"uACQScaleLo", 330
-"uACQScaleHi", 482
+"uACQScaleLo", 56
+"uACQScaleHi", 286
 "bACQScaleAuto", TRUE
 "bACQScaleRegion", TRUE
 "bACQXfer8Bit", FALSE
@@ -65,7 +65,7 @@
 "sACQAnnotation", ""
 "nACQSensorMode", 1
 "nACQReadoutDirection", 1
-"nACQDigitizer", 3
+"nACQDigitizer", 2
 "nACQGainType", 1
 "nACQGain", 1
 "nACQGain2", 2
