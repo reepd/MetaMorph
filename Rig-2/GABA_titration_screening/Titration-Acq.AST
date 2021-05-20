@@ -22,9 +22,9 @@
 "bACQUseSettingForName", TRUE
 "sACQShutter", "[Current Shutter]"
 "dACQPctLo", 0
-"dACQPctHi", 0
-"uACQScaleLo", 56
-"uACQScaleHi", 286
+"dACQPctHi", 0.023
+"uACQScaleLo", 1250
+"uACQScaleHi", 18673
 "bACQScaleAuto", TRUE
 "bACQScaleRegion", TRUE
 "bACQXfer8Bit", FALSE
@@ -32,7 +32,7 @@
 "bDisplaySaturationMarkers", FALSE
 "dACQContrast", 50
 "dACQBrightness", 50
-"nACQZoom", 40
+"nACQZoom", 45
 "iACQLutModel", 8
 "nACQBSub", 1
 "uACQBSubConstant", 0
@@ -123,10 +123,10 @@
 "dpACQPacketSizePercentage", 100
 "nACQLiveTriggerMode", 1
 "idxShowDigital4", 1
-"nACQRoiX", 0
-"nACQRoiY", 0
-"nACQRoiW", 2304
-"nACQRoiH", 2304
+"nACQRoiX", 576
+"nACQRoiY", 576
+"nACQRoiW", 1152
+"nACQRoiH", 1152
 "dExposureRedX", 1
 "dExposureGreenX", 1
 "dExposureBlueX", 1
