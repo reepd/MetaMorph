@@ -9,8 +9,8 @@
 "sACQSequenceType", "TIFF"
 "nACQSeqOverwrite", 1
 "nACQLiveBinning", 2
-"dACQExpose", 1
-"dACQExpose2", 1
+"dACQExpose", 50
+"dACQExpose2", 50
 "nACQExpUnits", 1
 "nACQBinning", 2
 "sACQImage", "Acquired"
