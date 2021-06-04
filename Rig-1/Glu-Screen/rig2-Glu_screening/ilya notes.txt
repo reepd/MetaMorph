@@ -1,0 +1,111 @@
+10/25/18
+
+EPHUS (matlab 2009)
+ephus('C:\DATA\Trevor\SETTINGS\ephusInit_Trevor4Stim.m') : GECIs
+ephus('C:\DATA\Trevor\SETTINGS\ephusInit_Doug1Stim.m') : GEVIs
+
+METAMORPH
+
+
+
+these are for calcium i think
+journals
+
+REFERENCE IMAGING
+main: D:\MetaMorph\Journals\96well-GFP-Andor-10sec2017ARCLIGHT96C-ONESHOT-REFS.JNL
+
+first inner (auto focus): D:\MetaMorph\Journals\Acquisition 96well GFP Andor 10secISI2017ARCLIGHT96C-ONESHOT.jnl
+
+second inner (reference imaging): D:\MetaMorph\Journals\Acquisition 96well-GFP-Andor-10secISI2017ARCLIGHT96C-ONESHOT-REFS.JNL
+	cycles over 9 or 18 positions in well 
+MDSs
+D:\MetaMorph\MDA_State\96well-GFP-Andor-10sec-OneShot.MDS.MDS
+
+D:\MetaMorph\MDA_State\96well-GFP-Andor-10sec2017ARCLIGHT96C-OneShot-Refs.MDS
+
+
+
+
+ACTUAL TIMESERIES IMAGING
+main: D:\MetaMorph\Journals\96well-GFP-Andor-10sec2017ARCLIGHT96F.JNL
+inner: D:\MetaMorph\Journals\Acquisition 96well GFP Andor 10secISI2017ARCLIGHT96F.JNL
+
+MDSs
+D:\MetaMorph\MDA_State\
+
+D:\MetaMorph\MDA_State\
+
+
+CELL ANALYSIS
+MATLAB 2016
+writes stage positions for metamorph (.STG files) 
+
+
+QUICK PLATE SCREEN TO TEST FOR EXPRESSION
+must get focus positions at 40X, then scan at 10 (or 20)X
+
+1. Run laser-focus
+2. ref_main (calls ref_autofocus_single)
+
+
+THRESHOLDING ALGORITHM IN MM
+1. Threshold image (low of ~842)
+2. Select image in well that has max thresholded area. Show region statistics > Spatial statistics > Threshold Area or % threshold area
+	programmatically: ShowRegionStatistics.ThresholdedArea 
+
+
+
+Time for initial autofocus (using 40x, laser-focus program): 5 min
+
+
+RELATIVE MOTIONS
+origin (Y): 6993. 
+cropped sensor: 1 FOV = 370 steps (some overlap). One well is ~12 FOVs across (diameter)
+
+uncropped sensor: > 600 steps. Can't do that with e-stimulator. Made it move 400 steps.
+
+positive Y: stage moves towards user
+positive X: stage moves right
+
+
+stim with 1, 3, 10, 40 APs
+
+ref image naming
+<StreamSavePath>\<Plate_name>_<AFStageLabel>_X<stage X position>_Y<stage y position>_Z<stage z position>_<type>.tif
+where <type> : GFP / BF
+
+stream naming
+<StreamSavePath>\<Plate_name>_<AFStageLabel>_X<stage X position>_Y<stage y position>_Z<stage z position>_<type>_sweep_<N>.tif
+where <type> : 1AP / 3AP / 10AP / 40AP
+
+
+GETI imaging settings that work well:
+10 ms exposure, 2 binning, ~50 FPS
+
+WaveSurfer: should be 320 sweeps not 384
+
+
+
+============== TESTING IMAGE THRESHOLD ================
+go to well
+Run test_positionTesting
+	It will error out but that's OK
+
+
+--------------------------------------11-12-18 experiment
+overall takes ~1 hr 20 mins
+made actuator rise before taking GFP and BF images (timeseries_inner)
+
+thresholding is working really well to find cells - maybe use that for other screens?
+
+TODO=====
+1. fiddle with illum power
+	- starting with 2000
+2. make sure BF image is good before starting
+3. Adjust threshold
+4. All the 1AP fluorescent traces have a huge transient component but the subsequent ones don't. clearly visible when looking at video
+
+
+------------------ 2-22-19 transferring to HEK rig
+old (working) WS protocol: C:\Users\GECI\Documents\WaveSurfer-0.981\ik_gaba_uncaging+imaging.wsp
+new protocol: iGABAsnfr_screening.wsp

@@ -1,0 +1,62 @@
+Version 2
+Title sb taskbar
+Rows 25
+Columns 1
+ButtonWidth 23
+DisplayKeybindings 0
+ProductId 50
+X 1153
+Y 15
+Button Journal
+Label ActuatorUP
+Journal E:\Metamorph\Journals\ActuatorUP.JNL
+Button Journal
+Label Actuator DOWN
+Journal E:\Metamorph\Journals\Actuator DOWN.JNL
+Button Unbound
+Button Journal
+Label calibration
+Journal E:\METAMORPH\JOURNALS\DR\calibration_rig2.jnl
+Button Journal
+Label move to center
+Journal E:\GITHUB\METAMORPH\RIG-2\moveToCenter.JNL
+Button Unbound
+Button Journal
+Label Find Focus C6
+Journal E:\Metamorph\Journals\findFocusOffset_C6.JNL
+Button Unbound
+Button Unbound
+Button Journal
+Label GETI Main
+Journal E:\GITHUB\METAMORPH\RIG-2\GABA_SCREENING\timeseries_main.jnl
+Button Unbound
+Button Journal
+Label GEVI Refs
+Journal E:\METAMORPH\JOURNALS\GEVI_SCREENING\GEVI Refs.JNL
+Button Journal
+Label GEVI Main
+Journal E:\METAMORPH\JOURNALS\GEVI_SCREENING\GEVI Main.JNL
+Button Unbound
+Button Journal
+Label GECI Main
+Journal E:\METAMORPH\JOURNALS\GECI_SCREENING\GECI Main.JNL
+Button Unbound
+Button Journal
+Label Glu Find Focus C6
+Journal E:\GITHUB\METAMORPH\RIG-2\findFocusOffset_C6_Glu.JNL
+Button Journal
+Label Glu Main
+Journal E:\GitHub\MetaMorph\Rig-2\Glu_screening\timeseries_main.jnl
+Button Journal
+Label Glu Software Focus
+Journal E:\GitHub\MetaMorph\Rig-2\Glu_screening\softwareFocus.JNL
+Button Unbound
+Button Journal
+Label Axonal Silencing
+Journal E:\GitHub\MetaMorph\Rig-2\Glu_screening\Axonal_Silencing\AxSi-timeseries_main.JNL
+Button Unbound
+Button Journal
+Label frequency response main
+Journal E:\GitHub\MetaMorph\Rig-2\GECI_screening\frequency_response\freqresp_main.JNL
+Button Unbound
+Button Unbound
