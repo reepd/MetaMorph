@@ -62,7 +62,7 @@
 "bACQAnnotHardwareProcessing", TRUE
 "bACQAnnotDeconvolution", TRUE
 "bACQAnnotCrestVcs", TRUE
-"sACQAnnotation", ""
+"sACQAnnotation", "rig2"
 "nACQSensorMode", 1
 "nACQReadoutDirection", 1
 "nACQDigitizer", 3
@@ -190,7 +190,7 @@
 "cACQLiveCapFramesAfter", 315
 "bACQPhotoNegativeMode", FALSE
 "nACQQuantization", 256
-"bACQVirtualChipEnable", FALSE
-"dpACQVirtualChipWidth", 100
-"dpACQVirtualChipHeight", 21.9618
+"bACQVirtualChipEnable", TRUE
+"dpACQVirtualChipWidth", 88.8889
+"dpACQVirtualChipHeight", 88.8889
 "EndFile"
