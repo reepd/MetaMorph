@@ -8,11 +8,11 @@
 "sACQSequenceDir", "D:\MetaMorph\GECI\Plate0001"
 "sACQSequenceType", "TIFF"
 "nACQSeqOverwrite", 1
-"nACQLiveBinning", 1
-"dACQExpose", 5.5
-"dACQExpose2", 5.5
+"nACQLiveBinning", 2
+"dACQExpose", 50
+"dACQExpose2", 50
 "nACQExpUnits", 1
-"nACQBinning", 1
+"nACQBinning", 2
 "sACQImage", "Acquired"
 "uACQTarget", -14812
 "dACQMaxExpose", 10

@@ -9,12 +9,12 @@
 "sACQSequenceType", "TIFF"
 "nACQSeqOverwrite", 1
 "nACQLiveBinning", 1
-"dACQExpose", 5.5
-"dACQExpose2", 5.5
+"dACQExpose", 100
+"dACQExpose2", 100
 "nACQExpUnits", 1
 "nACQBinning", 1
 "sACQImage", "Acquired"
-"uACQTarget", -14812
+"uACQTarget", -14550
 "dACQMaxExpose", 10
 "nACQMaxUnits", 2
 "dACQIncExpose", 10
@@ -191,6 +191,6 @@
 "bACQPhotoNegativeMode", FALSE
 "nACQQuantization", 256
 "bACQVirtualChipEnable", TRUE
-"dpACQVirtualChipWidth", 88.8889
-"dpACQVirtualChipHeight", 88.8889
+"dpACQVirtualChipWidth", 89
+"dpACQVirtualChipHeight", 89
 "EndFile"
