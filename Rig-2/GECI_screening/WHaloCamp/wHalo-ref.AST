@@ -8,11 +8,11 @@
 "sACQSequenceDir", "D:\MetaMorph\GECI\Plate0001"
 "sACQSequenceType", "TIFF"
 "nACQSeqOverwrite", 1
-"nACQLiveBinning", 1
+"nACQLiveBinning", 4
 "dACQExpose", 100
 "dACQExpose2", 100
 "nACQExpUnits", 1
-"nACQBinning", 1
+"nACQBinning", 4
 "sACQImage", "Acquired"
 "uACQTarget", -14550
 "dACQMaxExpose", 10
@@ -23,8 +23,8 @@
 "sACQShutter", "[Current Shutter]"
 "dACQPctLo", 0
 "dACQPctHi", 0.0057
-"uACQScaleLo", 60
-"uACQScaleHi", 158
+"uACQScaleLo", 14657
+"uACQScaleHi", -28192
 "bACQScaleAuto", TRUE
 "bACQScaleRegion", TRUE
 "bACQXfer8Bit", FALSE
@@ -32,7 +32,7 @@
 "bDisplaySaturationMarkers", FALSE
 "dACQContrast", 50
 "dACQBrightness", 50
-"nACQZoom", 50
+"nACQZoom", 220
 "iACQLutModel", 8
 "nACQBSub", 1
 "uACQBSubConstant", 0
