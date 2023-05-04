@@ -41,24 +41,20 @@ Button Journal
 Label GECI Main
 Journal E:\METAMORPH\JOURNALS\GECI_SCREENING\GECI Main.JNL
 Button Unbound
+Button Unbound
 Button Journal
-Label Glu Find Focus C6
-Journal E:\GITHUB\METAMORPH\RIG-2\findFocusOffset_C6_Glu.JNL
-Button Journal
-Label Glu Main
+Label Glu Main (old, no photoblc)
 Journal E:\GitHub\MetaMorph\Rig-2\Glu_screening\timeseries_main.jnl
 Button Journal
-Label Glu Software Focus
-Journal E:\GitHub\MetaMorph\Rig-2\Glu_screening\softwareFocus.JNL
-Button Unbound
-Button Journal
-Label Axonal Silencing
-Journal E:\GitHub\MetaMorph\Rig-2\Glu_screening\Axonal_Silencing\AxSi-timeseries_main.JNL
-Button Unbound
-Button Journal
-Label frequency response main
-Journal E:\GitHub\MetaMorph\Rig-2\GECI_screening\frequency_response\freqresp_main.JNL
-Button Unbound
-Button Journal
-Label main-photobleaching
+Label Photobleaching only
 Journal E:\GITHUB\METAMORPH\RIG-2\GLU_SCREENING\PHOTOBLEACHING\main-photobleaching.JNL
+Button Unbound
+Button Unbound
+Button Journal
+Label 0_1_5_10_20_160 GluSnFR
+Journal E:\GitHub\MetaMorph\Rig-2\Glu_screening\1_5_10_20_160\expandedstim_main.JNL
+Button Unbound
+Button Unbound
+Button Journal
+Label Glu4 Photobleaching Main
+Journal E:\GITHUB\METAMORPH\RIG-2\GLU_SCREENING\IN-SCREEN-PHOTOBLEACHING\PB_timeseries_main.JNL
